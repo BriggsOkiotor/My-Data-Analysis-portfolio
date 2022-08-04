@@ -24,7 +24,7 @@ These are project i did on my Data/ Business Intelligence self practice journey.
 ## [Project 2: Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
 
 
-## [Project 2: Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/blob/main/Inserting%20USER%20ROLE%20MAPER%20Column.sql)
+### [Project 2: Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/blob/main/Inserting%20USER%20ROLE%20MAPER%20Column.sql)
 
 
 
