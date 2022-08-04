@@ -1,4 +1,9 @@
 Data Analysis
+# Briggs Portfolio
+These are project i did on my Data/ Business Intelligence self practice journey.
+
+## [Project 1: Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Power%20Bi)
+
 
 ![Google M-metrics2](https://user-images.githubusercontent.com/108902579/182698757-00fa1b47-f93a-4e17-ba31-15d27720cd3b.PNG)
 
@@ -16,4 +21,38 @@ Data Analysis
 
 
 
+## [Project 2: Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/blob/main/Inserting%20USER%20ROLE%20MAPER%20Column.sql)
+
+
+### I was able to; 
+* Modeling 
+
+As a self taught Data Analyst, i was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM. 
+* Forward & Reverse Engineering. 
+
+I forwarded the model to SSMS to explore different query statements, functions and joins. And how to backup and restore databases.
+* Error Fixes.
+
+I also downloaded Adventure works 2012 sample database on my SSMS to explore and stay abreast of many query statements, error messages and possible fixes via research.
+* Visualization/ Report Marketing metrics.
+
+Built a Google Analytics marketing metrics / report on Power BI desktop with source data from Sql database. 
+* Visualization/ Report Marketing metrics.
+
+Built a Google Analytics marketing metrics / report on Power BI desktop with source data from Sql database. 
+* Data Exploration and Visualization.
+
+Exploring the data to create an actionable/ insightful report visualization with solid look and feel.
+* Power BI service. 
+
+Publish the report to my workspace (power bi service) creating dashboard board with relevant KPI's
+* Data Cleaning. 
+
+I also created an actionable/ insightful Sales report on power Bi desktop with source data from Access db and Excel workbook. Cleaning the data to create a stunning look and feel (visualization).
+* Power BI service. 
+
+ And then publish the report to my workspace (power bi service) creating dashboard board with relevant KPI's
+
+
+## [Some Dataset/ Sources](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Data%20sources)
 
