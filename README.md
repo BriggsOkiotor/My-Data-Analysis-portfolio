@@ -2,7 +2,7 @@ Data Analysis
 # Briggs U. Okiotor Portfolio
 As a data enthusiast, these are projects i did on my Data/ Business Intelligence analysis self practice journey.
 
-[ Project 1: MS Excel basic and advance](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/7033e5445a3a96f3966918928c0d2490227b22d7)
+## [ Project 1: MS Excel basic and advance](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/7033e5445a3a96f3966918928c0d2490227b22d7)
 
 I was able to explore some basic excel fuctions.
 Ranging from;
