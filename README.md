@@ -1,10 +1,10 @@
 Data Analysis
 # Briggs Portfolio
-These are project i did on my Data/ Business Intelligence self practice journey.
+As a data enthusiast, these are projects i did on my Data/ Business Intelligence analysis self practice journey.
 
 [ Project 1: MS Excel basic and advance](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/7033e5445a3a96f3966918928c0d2490227b22d7)
 
-I was able to explore some basic and advance excel fuctions.
+I was able to explore some basic excel fuctions.
 Ranging from;
 Average,
 Sum total,
@@ -12,18 +12,18 @@ Percentage,
 Grade,
 Sum,
 Sumif,
-Various count,
+"Various count",
 Concatenation,
 If functions
-and VLookup 
+and VLookups. 
 
 And then transited to advance excel for data analytics.
-With personal study guide ranging from;
-Descriptive statistics (basic)
-Exploratory data analysis (EDA)
-Sales analytics with fomular
-Sales analytics with pivot table
-Conditional formating
+With study guide ranging from;
+Descriptive statistics (basic),
+Exploratory data analysis (EDA),
+Sales analytics with fomular,
+Sales analytics with pivot tables,
+Conditional formating,
 Category report
 Anomaly detection.
 
@@ -101,3 +101,5 @@ I also created an actionable/ insightful Sales report on power Bi desktop with s
 
 ## [Some Dataset/ Dataset 1 ](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Data%20sources)
 ## [Dataset 2](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/ed691ded5e18d1751f2127ec4b2c668aa054b9ef)
+
+THANKS FOR CHECKING OUT!!! Feel free to reach out to me, i would love to be at your service...
