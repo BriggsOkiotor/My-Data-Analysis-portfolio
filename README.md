@@ -1,5 +1,5 @@
 Data Analysis
-# Briggs Portfolio
+# Briggs U. Okiotor Portfolio
 As a data enthusiast, these are projects i did on my Data/ Business Intelligence analysis self practice journey.
 
 [ Project 1: MS Excel basic and advance](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/7033e5445a3a96f3966918928c0d2490227b22d7)
@@ -50,6 +50,26 @@ Anomaly detection.
 
 ## [Project 2: Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Power%20Bi)
 
+* Visualization/ Report Marketing metrics.
+
+Built a Google Analytics marketing metrics / report on Power BI desktop with source data from Sql database. 
+* Visualization/ Report Marketing metrics.
+
+Built a Google Analytics marketing metrics / report on Power BI desktop with source data from Sql database. 
+* Data Exploration and Visualization.
+
+Exploring the data to create an actionable/ insightful report visualization with solid look and feel.
+* Power BI service. 
+
+Publish the report to my workspace (power bi service) creating dashboard board with relevant KPI's
+* Data Cleaning. 
+
+I also created an actionable/ insightful Sales report on power Bi desktop with source data from Access db and Excel workbook. Cleaning the data to create a stunning look and feel (visualization).
+* Power BI service. 
+
+ And then publish the report to my workspace account (power bi service) creating dashboard board with relevant KPI's
+ 
+Power BI report png..
 
 ![Google M-metrics2](https://user-images.githubusercontent.com/108902579/182698757-00fa1b47-f93a-4e17-ba31-15d27720cd3b.PNG)
 
@@ -68,7 +88,6 @@ Anomaly detection.
 
 ## [Project 3: Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
 
-
 ### I was able to; 
 * Modeling 
 
@@ -79,25 +98,6 @@ I forwarded the model to SSMS to explore different query statements, functions a
 * Error Fixes.
 
 I also downloaded Adventure works 2012 sample database on my SSMS to explore and stay abreast of many query statements, error messages and possible fixes via research.
-* Visualization/ Report Marketing metrics.
-
-Built a Google Analytics marketing metrics / report on Power BI desktop with source data from Sql database. 
-* Visualization/ Report Marketing metrics.
-
-Built a Google Analytics marketing metrics / report on Power BI desktop with source data from Sql database. 
-* Data Exploration and Visualization.
-
-Exploring the data to create an actionable/ insightful report visualization with solid look and feel.
-* Power BI service. 
-
-Publish the report to my workspace (power bi service) creating dashboard board with relevant KPI's
-* Data Cleaning. 
-
-I also created an actionable/ insightful Sales report on power Bi desktop with source data from Access db and Excel workbook. Cleaning the data to create a stunning look and feel (visualization).
-* Power BI service. 
-
- And then publish the report to my workspace (power bi service) creating dashboard board with relevant KPI's
-
 
 ## [Some Dataset/ Dataset: 1 ](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Data%20sources)
 ## [Dataset: 2](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/ed691ded5e18d1751f2127ec4b2c668aa054b9ef)
