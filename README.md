@@ -2,7 +2,53 @@ Data Analysis
 # Briggs Portfolio
 These are project i did on my Data/ Business Intelligence self practice journey.
 
-## [Project 1: Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Power%20Bi)
+[ Project 1: MS Excel basic and advance](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/7033e5445a3a96f3966918928c0d2490227b22d7)
+
+I was able to explore some basic and advance excel fuctions.
+Ranging from;
+Average,
+Sum total,
+Percentage,
+Grade,
+Sum,
+Sumif,
+Various count,
+Concatenation,
+If functions
+and VLookup 
+
+And then transited to advance excel for data analytics.
+With personal study guide ranging from;
+Descriptive statistics (basic)
+Exploratory data analysis (EDA)
+Sales analytics with fomular
+Sales analytics with pivot table
+Conditional formating
+Category report
+Anomaly detection.
+
+### BASIC EXCEL
+
+![excelA](https://user-images.githubusercontent.com/108902579/183625681-6f136c1c-8538-461f-9f62-257c26d96431.PNG)
+![excelB](https://user-images.githubusercontent.com/108902579/183625745-92e29de2-cdb0-4548-a93c-e58e59c54ef0.PNG)
+![excelC](https://user-images.githubusercontent.com/108902579/183625758-f25164b2-900c-4b41-87a2-cd9683be408c.PNG)
+
+### ADVANCE EXCEL (Data analytics with MS Excel)
+![adexel1](https://user-images.githubusercontent.com/108902579/183625988-077e711c-e6e3-4c7f-b8d7-b7a6fc4e8185.PNG)
+
+![adexcel2](https://user-images.githubusercontent.com/108902579/183626046-808f5ebf-3dc8-4a52-bb1e-bd52d802cb62.PNG)
+
+![adexcel3](https://user-images.githubusercontent.com/108902579/183626078-6a6c561a-5608-406f-b7fa-9edef4a8567c.PNG)
+
+![adexcel4](https://user-images.githubusercontent.com/108902579/183626125-38c64cab-c53e-4d59-a960-66fe93090efc.PNG)
+
+![adexcel5](https://user-images.githubusercontent.com/108902579/183626183-a59864cf-e3b3-4738-b0c0-0c9ae7c9894f.PNG)
+
+![adexcel6](https://user-images.githubusercontent.com/108902579/183626219-7f348eb8-f658-4eec-a81f-663d9f6e3af7.PNG)
+
+
+
+## [Project 2: Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Power%20Bi)
 
 
 ![Google M-metrics2](https://user-images.githubusercontent.com/108902579/182698757-00fa1b47-f93a-4e17-ba31-15d27720cd3b.PNG)
@@ -20,12 +66,7 @@ These are project i did on my Data/ Business Intelligence self practice journey.
 ![Google M-metrics3](https://user-images.githubusercontent.com/108902579/182698949-472ea5a8-6e3f-4c66-8b2f-032263036830.PNG)
 
 
-
-## [Project 2: Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
-
-
-### [Project 2: Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/blob/main/Inserting%20USER%20ROLE%20MAPER%20Column.sql)
-
+## [Project 3: Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
 
 
 ### I was able to; 
