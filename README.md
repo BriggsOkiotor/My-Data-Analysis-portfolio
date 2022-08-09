@@ -18,7 +18,7 @@ If functions
 and VLookups. 
 
 And then transited to advance excel for data analytics.
-With study guide ranging from;
+With study guide from;
 Descriptive statistics (basic),
 Exploratory data analysis (EDA),
 Sales analytics with fomular,
@@ -99,7 +99,7 @@ I also created an actionable/ insightful Sales report on power Bi desktop with s
  And then publish the report to my workspace (power bi service) creating dashboard board with relevant KPI's
 
 
-## [Some Dataset/ Dataset 1 ](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Data%20sources)
-## [Dataset 2](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/ed691ded5e18d1751f2127ec4b2c668aa054b9ef)
+## [Some Dataset/ Dataset: 1 ](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Data%20sources)
+## [Dataset: 2](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/ed691ded5e18d1751f2127ec4b2c668aa054b9ef)
 
 THANKS FOR CHECKING OUT!!! Feel free to reach out to me, i would love to be at your service...
