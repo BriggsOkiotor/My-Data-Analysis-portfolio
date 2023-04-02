@@ -98,7 +98,7 @@ Upload customer details to Crm/dialer for contacting/ reaching out for the sake 
 Created sales/ lead generation pipeline (funnel) for multiple users with restricted access to a centralized dashboard using MS Excel.
 ![5](https://user-images.githubusercontent.com/108902579/229366951-58023f92-e668-4277-8265-c59c4cec9c2b.PNG)
 
-### SITUATION ROOM 2023 ELECTION
+### [SITUATION ROOM 2023 ELECTION](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/7.%20PRESENTATION%203-16-2023.pptx)
 Delivered real time situation report analysis dashboard for 2023 presidential election every 3 hours and a consolidation for the whole day 02/25/2023 with necessary slicers using MS Excel, Power query and Power pivot.
 
 ![6](https://user-images.githubusercontent.com/108902579/229367065-aad0e83c-ee7c-419f-9509-7c8ec2dbb342.jpeg)
