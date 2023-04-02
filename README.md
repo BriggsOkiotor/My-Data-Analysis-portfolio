@@ -1,7 +1,7 @@
 Data Analysis
 # Briggs U. Okiotor Portfolio
 
-# SUMMARY
+## SUMMARY
 Business Intelligence Analyst (Data analyst) with demonstrated  experience  in exploring data to develop insights into business aspect reports to aid  informed decision making.  A penchant for continuous learning. 
 
 ## SKILLS.
@@ -79,6 +79,8 @@ by 12PM to know our current stand
 
 ### HR ANALYTICS 
 Design HR analytics dashboard to monitor and track attendance (punctuality) and performance (PIP) using advanced MS Excel (conditional formatting)
+
+
 
 ### EMAIL MARKETING  
 Configured mail merge tool kit for swift automation of bulk mailing system. So that every individual recipient (customer) receives his/her personalized mail content in a pdf or html format using MS Excel, MS Word and MS outlook.
