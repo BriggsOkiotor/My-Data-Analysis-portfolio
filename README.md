@@ -1,15 +1,16 @@
-Data Analysis
 # Briggs U. Okiotor Portfolio
 
-## SUMMARY
+***Data Analysis***
+
+### SUMMARY
 Business Intelligence Analyst (Data analyst) with demonstrated  experience  in exploring data to develop insights into business aspect reports to aid  informed decision making.  A penchant for continuous learning. 
 
-## SKILLS.
+### SKILLS.
 Analytics: MS Excel, Power BI
 
 Databases: MS Sql Server 
 
-## EXPERIENCE/ PROJECT.
+### EXPERIENCE/ PROJECT.
 Company Name: Scimitar Global Service Limited  (SGSL)                                                                          
 Job role: Data Analyst 
 2022 - till date. 
@@ -28,7 +29,7 @@ Lead generation sales pipeline/funnel
 
 Reporting, Meetings and Presentations
 
-## PRODUCT (Lob)
+### PRODUCT
 
 FAIRMONEY MICROFINANCE BANK
 
@@ -106,7 +107,7 @@ Delivered real time situation report analysis dashboard for 2023 presidential el
 ![6](https://user-images.githubusercontent.com/108902579/229367087-c11d40ff-f0f2-4e03-a267-45d9684f6992.PNG)
 
 
-### As a data enthusiast, these are projects i did on my Data/ Business Intelligence analysis self practice journey 2021.
+ ***As a data enthusiast, these are projects i did on my Data/ Business Intelligence analysis self practice journey 2021.***
 
 ## [ Project 1: MS Excel basic and advance](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/7033e5445a3a96f3966918928c0d2490227b22d7)
 
