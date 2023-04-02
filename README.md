@@ -77,9 +77,8 @@ by 12PM to know our current stand
 ![1 (9)](https://user-images.githubusercontent.com/108902579/229366844-5c3ef12a-0daf-40cc-ade2-980e22f59eb4.PNG)
 ![1 (10)](https://user-images.githubusercontent.com/108902579/229366858-887fc57b-29b4-4fbb-82f2-854e2c6bd447.PNG)
 
-### HR ANALYTICS 
+### [HR ANALYTICS](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/2.%20HR%20DATA%20ANALYSIS.xlsx)
 Design HR analytics dashboard to monitor and track attendance (punctuality) and performance (PIP) using advanced MS Excel (conditional formatting)
-
 
 
 ### EMAIL MARKETING  
