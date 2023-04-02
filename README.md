@@ -6,6 +6,7 @@ Business Intelligence Analyst (Data analyst) with demonstrated  experience  in e
 
 ## SKILLS.
 Analytics: MS Excel, Power BI
+
 Databases: MS Sql Server 
 
 ## EXPERIENCE/ PROJECT.
@@ -13,29 +14,47 @@ Company Name: Scimitar Global Service Limited  (SGSL)
 Job role: Data Analyst 
 2022 - till date. 
 
-Real time data analysis reporting and motivation 
+Real time data analysis reporting and motivation
+
 HR Analytics
+
 Email marketing
+
 Contact center (CRM/Dialer) Support
-Lead generation sales pipeline/funnel 
+
+Lead generation sales pipeline/funnel
+
 2023 Presidential election situation report real time analysis
+
 Reporting, Meetings and Presentations
 
 ## PRODUCT (Lob)
-FAIRMONEY MICROFINANCE BANK 
-QUICK CHECK/ JUMIA PAY
-BLACK COPPER LOAN AGENCY
-TANGERINE LOAN AGENCY
-AELLA LOAN AGENCY
-BAINS CREDIT LOAN AGENCY
-NATIONAL SOCIAL INVESTMENT PROGRAM (Nsip/ N-Power)
-APC SITUATION ROOM 2023 PRESIDENTIAL / HoA ELECTION
 
-### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION. 
+FAIRMONEY MICROFINANCE BANK
+
+QUICK CHECK/ JUMIA PAY
+
+BLACK COPPER LOAN AGENCY
+
+TANGERINE LOAN AGENCY
+
+AELLA LOAN AGENCY
+
+BAINS CREDIT LOAN AGENCY
+
+NATIONAL SOCIAL INVESTMENT PROGRAM (Nsip/ N-Power),
+
+APC SITUATION ROOM 2023 PRESIDENTIAL / HoA ELECTION.
+
+
+### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION.
+
 Created a real time analysis dashboard for contact center agent engagement. Updating the management and agent on their individual performance in real time.
 Individual call disposition, number of calls and promise to pay (PTP) from customers every three hours and consolidation of daily, weekly, monthly, quarterly and yearly report analysis using MS Excel, Power query,  power pivot and M Language. With Data source from CRM loan disposition and Share point.
+
 There by providing data driven insight to management and quality assurance (Q/A) officers to enable them make informed business decisions judging from agents performance KPI and recovery margin
 And setting a healthy competition, motivating agents by letting them know where they are in real time, who is ahead, who is behind and how they can do better, supported by a stunning closing remark. 
+
 Examples are;
 (Kindly remember to TAG YOUR CALLS PROPERLY, Your daily Target (KPI), 
 Your call scripts,  Your AHT and 
@@ -67,18 +86,18 @@ Configured mail merge tool kit for swift automation of bulk mailing system. So t
 ![3](https://user-images.githubusercontent.com/108902579/229366877-f55b5e12-270d-4af6-9fa1-81f674c41661.PNG)
 
 Others include; 
-CONTACT CENTER (CRM/Dialer) SUPPORT.
+### CONTACT CENTER (CRM/Dialer) SUPPORT.
 Upload customer details to Crm/dialer for contacting/ reaching out for the sake of loan recovery 
 
 ![4,](https://user-images.githubusercontent.com/108902579/229366884-40eb8c88-4832-489e-bd9d-314583bd4358.PNG)
 ![4](https://user-images.githubusercontent.com/108902579/229366911-048ae4e9-8e65-48cd-b431-169c62c35f1a.PNG)
 ![4](https://user-images.githubusercontent.com/108902579/229366920-3e99ae9f-85b1-4e76-a175-4794babc04f9.PNG)
 
-LEAD GENERATION /SALES PIPELINE 
+### LEAD GENERATION /SALES PIPELINE 
 Created sales/ lead generation pipeline (funnel) for multiple users with restricted access to a centralized dashboard using MS Excel.
 ![5](https://user-images.githubusercontent.com/108902579/229366951-58023f92-e668-4277-8265-c59c4cec9c2b.PNG)
 
-SITUATION ROOM 2023 ELECTION
+### SITUATION ROOM 2023 ELECTION
 Delivered real time situation report analysis dashboard for 2023 presidential election every 3 hours and a consolidation for the whole day 02/25/2023 with necessary slicers using MS Excel, Power query and Power pivot.
 
 ![6](https://user-images.githubusercontent.com/108902579/229367065-aad0e83c-ee7c-419f-9509-7c8ec2dbb342.jpeg)
@@ -86,7 +105,7 @@ Delivered real time situation report analysis dashboard for 2023 presidential el
 ![6](https://user-images.githubusercontent.com/108902579/229367087-c11d40ff-f0f2-4e03-a267-45d9684f6992.PNG)
 
 
-As a data enthusiast, these are projects i did on my Data/ Business Intelligence analysis self practice journey 2021.
+### As a data enthusiast, these are projects i did on my Data/ Business Intelligence analysis self practice journey 2021.
 
 ## [ Project 1: MS Excel basic and advance](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/7033e5445a3a96f3966918928c0d2490227b22d7)
 
