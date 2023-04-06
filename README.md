@@ -201,23 +201,16 @@ Experience/ Project details include;
 (I was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM.) 
 
 * Visualization/ Report Marketing metrics.
-
-Built a Google Analytics marketing metrics / report on Power BI desktop with source data from Sql database. 
+(Built a Google Analytics marketing metrics / report on Power BI desktop with source data from Sql database.)
 * Visualization/ Report Marketing metrics.
+(Exploring the data to create an actionable/ insightful report visualization with solid look and feel.)
 
-Built a Google Analytics marketing metrics / report on Power BI desktop with source data from Sql database. 
-* Data Exploration and Visualization.
-
-Exploring the data to create an actionable/ insightful report visualization with solid look and feel.
 * Power BI service. 
+(Publish the report to my workspace in power bi service creating dashboard board with relevant KPI's)
 
-Publish the report to my workspace (power bi service) creating dashboard board with relevant KPI's
-* Data Cleaning. 
-
-I also created an actionable/ insightful Sales report on power Bi desktop with source data from Access db and Excel workbook. Cleaning the data to create a stunning look and feel (visualization).
+* Data Cleaning.
+(I also created an actionable/ insightful Sales report on power Bi desktop with source data from Access db and Excel workbook. Cleaning the data to create a stunning look and feel/visualization).
 * Power BI service. 
-
- And then publish the report to my workspace account (power bi service) creating dashboard board with relevant KPI's
  
 Power BI report png..
 
