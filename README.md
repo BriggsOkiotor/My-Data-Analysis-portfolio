@@ -32,7 +32,7 @@ Lead generation sales pipeline/funnel
 
 Reporting, Meetings and Presentations
 
-### PRODUCT
+### PRODUCT (LoB)
 
 FAIRMONEY MICROFINANCE BANK
 
@@ -54,7 +54,7 @@ APC SITUATION ROOM 2023 PRESIDENTIAL / HoA ELECTION.
 ### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION.
 
 Created a real time analysis dashboard for contact center agent engagement. Updating the management and agent on their individual performance in real time.
-Individual call disposition, number of calls and promise to pay (PTP) from customers every three hours and consolidation of daily, weekly, monthly, quarterly and yearly report analysis using MS Excel, Power query,  power pivot and M Language. With Data source from CRM loan disposition and Share point.
+Individual call disposition, number of calls and promise to pay (PTP) from customers every three hours and consolidation of daily, weekly, monthly, quarterly and yearly report analysis using MS Excel, Power query,  power pivot and M Language / VBA Macro. With Data source from CRM loan disposition dataset and SharePoint.
 
 There by providing data driven insight to management and quality assurance (Q/A) officers to enable them make informed business decisions judging from agents performance KPI and recovery margin
 And setting a healthy competition, motivating agents by letting them know where they are in real time, who is ahead, who is behind and how they can do better, supported by a stunning closing remark. 
