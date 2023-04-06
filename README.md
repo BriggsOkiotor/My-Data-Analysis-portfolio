@@ -133,37 +133,32 @@ International standards excellence award for best the Customer Relationship Mana
 
 ## [ Project 1: MS Excel basic and advance](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/7033e5445a3a96f3966918928c0d2490227b22d7)
 
+### BASIC EXCEL
 
 I was able to explore some basic excel fuctions.
 Ranging from;
 
-Average,
+Average
 
-Sum total,
+Sum total
 
-Percentage,
+Percentage
 
-Grade,
+Grade
 
-Sum,
+Sum
 
-Sumif,
+Sumif
 
-"Various count",
+"Various count"
 
-Concatenation,
+Concatenation
 
 If functions
 
 and VLookups. 
 
-
 Anomaly detection.
-
-### BASIC EXCEL
-And then transited to advance excel for data analytics,
-With basic statistics study guide. Eg:
-
 
 ![excelA](https://user-images.githubusercontent.com/108902579/183625681-6f136c1c-8538-461f-9f62-257c26d96431.PNG)
 ![excelB](https://user-images.githubusercontent.com/108902579/183625745-92e29de2-cdb0-4548-a93c-e58e59c54ef0.PNG)
