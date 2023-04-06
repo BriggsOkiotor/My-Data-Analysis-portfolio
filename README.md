@@ -157,29 +157,34 @@ If functions
 
 and VLookups. 
 
-And then transited to advance excel for data analytics.
-With study guide from;
-Descriptive statistics (basic),
-
-Exploratory data analysis (EDA),
-
-Sales analytics with fomular,
-
-Sales analytics with pivot tables,
-
-Conditional formating,
-
-Category report
 
 Anomaly detection.
 
 ### BASIC EXCEL
+And then transited to advance excel for data analytics,
+With basic statistics study guide. Eg:
+
 
 ![excelA](https://user-images.githubusercontent.com/108902579/183625681-6f136c1c-8538-461f-9f62-257c26d96431.PNG)
 ![excelB](https://user-images.githubusercontent.com/108902579/183625745-92e29de2-cdb0-4548-a93c-e58e59c54ef0.PNG)
 ![excelC](https://user-images.githubusercontent.com/108902579/183625758-f25164b2-900c-4b41-87a2-cd9683be408c.PNG)
 
 ### ADVANCE EXCEL (Data analytics with MS Excel)
+
+And then transited to advance excel for data analytics,
+With basic statistics study guide. Eg;
+
+Exploratory data analysis (EDA)
+
+Sales analytics with fomular
+
+Sales analytics with pivot tables
+
+Conditional formating
+
+Anomaly detection.
+
+
 ![adexel1](https://user-images.githubusercontent.com/108902579/183625988-077e711c-e6e3-4c7f-b8d7-b7a6fc4e8185.PNG)
 
 ![adexcel2](https://user-images.githubusercontent.com/108902579/183626046-808f5ebf-3dc8-4a52-bb1e-bd52d802cb62.PNG)
