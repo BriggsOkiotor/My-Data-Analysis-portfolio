@@ -251,15 +251,14 @@ Power BI report png..
 ## [Project 3: Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
 
 ### I was able to; 
-* Modeling 
+* Model.
+(I was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM.)
 
-I was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM. 
-* Forward & Reverse Engineering. 
+* Forward & Reverse Engineering.
+(I forwarded the model to SSMS to explore different query statements, functions and joins. And how to backup and restore databases.)
 
-I forwarded the model to SSMS to explore different query statements, functions and joins. And how to backup and restore databases.
 * Error Fixes.
-
-I also downloaded Adventure works 2012 sample database on my SSMS to explore and stay abreast of many query statements, error messages and possible fixes via research.
+(I also downloaded Adventure works 2012 sample database on my SSMS to explore and stay abreast of many query statements, error messages and possible fixes via research.)
 
 ## [Some Dataset/ Dataset: 1 ](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Data%20sources)
 ## [Dataset: 2](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/ed691ded5e18d1751f2127ec4b2c668aa054b9ef)
