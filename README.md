@@ -1,9 +1,11 @@
-# Briggs U. Okiotor Portfolio
+# Briggs Okiotor Portfolio
 
 ***Data Analyst***
 
 ### SUMMARY
-Business Intelligence Analyst (Data analyst) with demonstrated  experience  in exploring data to develop insights into business aspect reports to aid  informed decision making.  A penchant for continuous learning. 
+Business Intelligence Analyst (Data analyst) with demonstrated  experience  in exploring data to develop insights into business aspect reports to aid  informed decision making.  
+
+A penchant for continuous learning. 
 
 ### SKILLS.
 Analytics: MS Excel, Power BI
@@ -67,8 +69,6 @@ strategy consistent.
 You shall all    be  updated 
 by 12PM to know our current stand 
 (those ahead and those behind) All the best team.)
-
-
 
 ![1 (1)](https://user-images.githubusercontent.com/108902579/229366607-a9302a82-17dd-43bd-9f33-9c24a3a50d3c.PNG)
 ![1 (2)](https://user-images.githubusercontent.com/108902579/229366611-ebdc11c0-a866-40e4-825e-0e74ac777cf1.PNG)
