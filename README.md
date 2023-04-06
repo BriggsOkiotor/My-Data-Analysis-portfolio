@@ -136,25 +136,41 @@ International standards excellence award for best the Customer Relationship Mana
 
 I was able to explore some basic excel fuctions.
 Ranging from;
+
 Average,
+
 Sum total,
+
 Percentage,
+
 Grade,
+
 Sum,
+
 Sumif,
+
 "Various count",
+
 Concatenation,
+
 If functions
+
 and VLookups. 
 
 And then transited to advance excel for data analytics.
 With study guide from;
 Descriptive statistics (basic),
+
 Exploratory data analysis (EDA),
+
 Sales analytics with fomular,
+
 Sales analytics with pivot tables,
+
 Conditional formating,
+
 Category report
+
 Anomaly detection.
 
 ### BASIC EXCEL
@@ -183,8 +199,11 @@ I worked with a team to interpret the business requirement use case into a analy
 ## [Project 2: Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Power%20Bi)
 
 
-Project Name: Other (self practices)                                                                                   2021
-Responsibility: Data cleaning  
+### Project Name: Other (self practices)                                                                                   2021
+### Responsibility: 
+
+                         Data cleaning  
+                         
                          Data exploration 
                          
                          Data visualization 
@@ -195,7 +214,7 @@ Responsibility: Data cleaning
                          
                          Reporting/ Dashboard 
 
-Experience/ Project details include;
+### Experience/ Project details include;
 
 * Modeling 
 (I was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM.) 
