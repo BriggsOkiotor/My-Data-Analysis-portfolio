@@ -192,9 +192,11 @@ Anomaly detection.
 
 ![adexcel6](https://user-images.githubusercontent.com/108902579/183626219-7f348eb8-f658-4eec-a81f-663d9f6e3af7.PNG)
 
-EXPERIENCE/ PROJECT.
+### EXPERIENCE/ PROJECT.
 Project Name: Accenture (freelance)                                                                                   2021
+
 Responsibility: P.O.C Support 
+
 I worked with a team to interpret the business requirement use case into a analytical report solutions
 ## [Project 2: Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Power%20Bi)
 
@@ -229,7 +231,6 @@ I worked with a team to interpret the business requirement use case into a analy
 
 * Data Cleaning.
 (I also created an actionable/ insightful Sales report on power Bi desktop with source data from Access db and Excel workbook. Cleaning the data to create a stunning look and feel/visualization).
-* Power BI service. 
  
 Power BI report png..
 
