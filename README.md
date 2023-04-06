@@ -1,6 +1,6 @@
 # Briggs U. Okiotor Portfolio
 
-***Data Analysis***
+***Data Analyst***
 
 ### SUMMARY
 Business Intelligence Analyst (Data analyst) with demonstrated  experience  in exploring data to develop insights into business aspect reports to aid  informed decision making.  A penchant for continuous learning. 
@@ -9,6 +9,9 @@ Business Intelligence Analyst (Data analyst) with demonstrated  experience  in e
 Analytics: MS Excel, Power BI
 
 Databases: MS Sql Server 
+
+Microsoft office suite: Excel, Word, Outlook 
+Power point, MS Teams etc
 
 ### EXPERIENCE/ PROJECT.
 Company Name: Scimitar Global Service Limited  (SGSL)                                                                          
@@ -105,6 +108,20 @@ Delivered real time situation report analysis dashboard for 2023 presidential el
 ![6](https://user-images.githubusercontent.com/108902579/229367065-aad0e83c-ee7c-419f-9509-7c8ec2dbb342.jpeg)
 ![6](https://user-images.githubusercontent.com/108902579/229367080-d6bfa393-1efc-469a-bd74-d9a04d3a79fa.jpeg)
 ![6](https://user-images.githubusercontent.com/108902579/229367087-c11d40ff-f0f2-4e03-a267-45d9684f6992.PNG)
+
+
+REPORTING, MEETINGS &  PRESENTATION 
+Executive update on work deliverables, updates, challenges, suggestions, agent engagement,  agent performance and Recovery performance using Powerpoint presentation.
+
+
+ACHIEVEMENTS 
+As a company, together we were honored with;
+
+Africa most innovative contact center solution provider of the year. (Africa Brand Congress. ABC 2022)
+![One](https://user-images.githubusercontent.com/108902579/230496179-9d4e5f95-132d-4e90-9749-43a7550c8c1e.PNG)
+
+International standards excellence award for best the Customer Relationship Management (CRM) firm of the year (2022 world standard day)
+![Two](https://user-images.githubusercontent.com/108902579/230496068-d6220ed2-dc94-4a30-90ad-27b2e1236e97.PNG)
 
 
  ***As a data enthusiast, these are projects i did on my Data/ Business Intelligence analysis self practice journey 2021.***
