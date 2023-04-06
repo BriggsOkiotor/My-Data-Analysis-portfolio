@@ -129,8 +129,10 @@ International standards excellence award for best the Customer Relationship Mana
 
 
  ***As a data enthusiast, these are projects i did on my Data/ Business Intelligence analysis self practice journey 2021.***
+ 
 
 ## [ Project 1: MS Excel basic and advance](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/7033e5445a3a96f3966918928c0d2490227b22d7)
+
 
 I was able to explore some basic excel fuctions.
 Ranging from;
@@ -174,9 +176,29 @@ Anomaly detection.
 
 ![adexcel6](https://user-images.githubusercontent.com/108902579/183626219-7f348eb8-f658-4eec-a81f-663d9f6e3af7.PNG)
 
-
-
+EXPERIENCE/ PROJECT.
+Project Name: Accenture (freelance)                                                                                   2021
+Responsibility: P.O.C Support 
+I worked with a team to interpret the business requirement use case into a analytical report solutions
 ## [Project 2: Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Power%20Bi)
+
+
+Project Name: Other (self practices)                                                                                   2021
+Responsibility: Data cleaning  
+                         Data exploration 
+                         
+                         Data visualization 
+                         
+                         Data Modeling 
+                         
+                         Power BI service 
+                         
+                         Reporting/ Dashboard 
+
+Experience/ Project details include;
+
+* Modeling 
+(I was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM.) 
 
 * Visualization/ Report Marketing metrics.
 
@@ -219,7 +241,7 @@ Power BI report png..
 ### I was able to; 
 * Modeling 
 
-As a self taught Data Analyst, i was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM. 
+I was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM. 
 * Forward & Reverse Engineering. 
 
 I forwarded the model to SSMS to explore different query statements, functions and joins. And how to backup and restore databases.
