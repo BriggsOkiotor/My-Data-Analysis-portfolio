@@ -110,12 +110,13 @@ Delivered real time situation report analysis dashboard for 2023 presidential el
 ![6](https://user-images.githubusercontent.com/108902579/229367087-c11d40ff-f0f2-4e03-a267-45d9684f6992.PNG)
  
 
-[Business/Data Analysis Power Point Executive Presentation](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/7.%20PRESENTATION%203-16-2023.pptx)
+### [Business/Data Analysis Power Point Executive Presentation](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/7.%20PRESENTATION%203-16-2023.pptx)
+### REPORTING, MEETINGS &  PRESENTATION
 
-REPORTING, MEETINGS &  PRESENTATION 
 Executive update on work deliverables, updates, challenges, suggestions, agent engagement,  agent performance and Recovery performance using Powerpoint presentation.
 
-ACHIEVEMENTS:
+
+### ACHIEVEMENTS:
 
 As a company, together we were honored with
 Africa most innovative contact center solution provider of the year. ***(Africa Brand Congress. ABC 2022)***
