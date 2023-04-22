@@ -135,7 +135,134 @@ International standards excellence award for best the Customer Relationship Mana
 ![Two](https://user-images.githubusercontent.com/108902579/230496068-d6220ed2-dc94-4a30-90ad-27b2e1236e97.PNG)
 
 
- ***As a data enthusiast, these are projects i did on my Data/ Business Intelligence analysis self practice journey 2021.***
+ ***As a data enthusiast, these are projects i did on my Data/ Business Intelligence analysis self practice journey 2021.*** 
+ 
+ ## [BI REPORTING : Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Power%20Bi)
+ 
+ Project Name: Accenture (freelance) 2021
+
+Responsibility: P.O.C Support
+
+I worked with a team to interpret the business requirement use case into analytical report solutions and dashboard visualization.
+
+Experience/ Project details include;
+
+ETL
+
+Data cleaning  
+
+Data exploration 
+
+Data visualization 
+
+Data Modeling 
+
+Power BI service 
+
+Reporting/ Dashboard 
+
+
+ETL: Export (get) data from sharepoint, SQL server and excel workbook using the ETL functionality of Power Bi, cleaning/preparing the data for exploratory analysis, reporting and dashboard visualization.
+
+Visualization/ Report Marketing metrics: (Marketing metrics / report on Power BI desktop with source data from Sql database and sharepoint)
+Exploring the data to create an actionable, insightful report visualization/ dashboard with a solid look and feel experience matched up with swift buttons and bookmarks.
+
+Power BI service: (Publish the report to my workspace in power bi service creating dashboard board with relevant KPI’s)
+
+### Experience/ Project details include;
+
+* Modeling 
+(I was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM.) 
+
+* Visualization/ Report Marketing metrics.
+*  (Marketing metrics / report on Power BI desktop with source data from Sql database and sharepoint)
+Exploring the data to create an actionable, insightful report visualization/ dashboard with a solid look and feel experience matched up with swift buttons and bookmarks.
+
+* Power BI service. 
+(Publish the report to my workspace in power bi service creating dashboard board with relevant KPI's)
+
+* Data Cleaning.
+(I also created an actionable/ insightful Sales report on power Bi desktop with source data from Access db and Excel workbook. Cleaning the data to create a stunning look and feel/visualization).
+ 
+Power BI report png..
+
+![Google M-metrics2](https://user-images.githubusercontent.com/108902579/182698757-00fa1b47-f93a-4e17-ba31-15d27720cd3b.PNG)
+
+![Chelvro3](https://user-images.githubusercontent.com/108902579/182698818-b003c56c-0d12-46ab-8710-b9d261a9caeb.PNG)
+
+![Chelvro](https://user-images.githubusercontent.com/108902579/182698850-ef00e3e0-bc4a-482b-b5b2-deab0e67bf6f.PNG)
+
+![Chelvro2](https://user-images.githubusercontent.com/108902579/182698868-3aaa9ad5-0a08-4e4e-a48c-6ea685d1d77b.PNG)
+
+![Mercyland](https://user-images.githubusercontent.com/108902579/182698892-f50d64fc-a968-4ec0-af92-43e866023b4d.PNG)
+
+![Google M-metrics4](https://user-images.githubusercontent.com/108902579/182698916-65271179-ede1-43e3-95d7-6aa253e2add3.PNG)
+
+![Google M-metrics3](https://user-images.githubusercontent.com/108902579/182698949-472ea5a8-6e3f-4c66-8b2f-032263036830.PNG)
+
+
+
+
+
+
+Project 3: Sql Server
+
+For self study/ personal development 
+I was able to;
+
+Model: Modeling: (I was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM.)
+
+
+Forward & Reverse Engineering. (I forwarded the model to SSMS to explore different query statements, functions and joins. And how to backup and restore databases.)
+
+Error Fixes. (I also downloaded Adventure works 2012 sample database on my SSMS to explore and stay abreast of many query statements, error messages and possible fixes via research.)
+
+self practice journey 2021.
+
+Project 1: MS Excel basic and advance
+
+BASIC EXCEL
+
+I was able to explore some basic excel fuctions. Ranging from;
+
+Average, Sum total, Percentage Grade, Sum, Sumif, “Various count functions”, Concatenation
+If functions, VLookups XLookup etc
+
+ADVANCE EXCEL (Data analytics with MS Excel)
+
+Exploratory data analysis (EDA)
+
+Sales analytics with formula
+
+Sales analytics with pivot tables
+
+Conditional formatting
+
+Anomaly detection
+
+Power pivot 
+
+Power query 
+
+ETL
+
+
+SOFT SKILL
+
+Research,
+Team work,
+Problem solving, 
+Presentation, 
+Communication, 
+Active listening, 
+Data storytelling, 
+Critical thinking.
+
+
+ 
+ 
+ 
+ 
  
 
 ## [ Project 1: MS Excel basic and advance](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/7033e5445a3a96f3966918928c0d2490227b22d7)
