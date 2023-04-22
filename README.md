@@ -145,7 +145,7 @@ Responsibility: P.O.C Support
 
 I worked with a team to interpret the business requirement use case into analytical report solutions and dashboard visualization.
 
-Experience/ Project details include;
+### Experience/ Project details include;
 
 ETL
 
@@ -161,7 +161,7 @@ Power BI service
 
 Reporting/ Dashboard 
 
-### Experience/ Project details include;
+Project details include;
 
 * ETL: Export (get) data from sharepoint, SQL server and excel workbook using the ETL functionality of Power Bi, cleaning/preparing the data for exploratory analysis, reporting and dashboard visualization.
 
@@ -172,7 +172,7 @@ Power BI service: (Publish the report to my workspace in power bi service creati
 (Created a relationship model/schemars with relevant joins) 
 
 * Visualization/ Report Marketing metrics.
-*  (Marketing metrics / report on Power BI desktop with source data from Sql database and sharepoint)
+*  (Marketing metrics / report on Power BI desktop with source data from Sql database, Excel workbook and sharepoint)
 Exploring the data to create an actionable, insightful report visualization/ dashboard with a solid look and feel experience matched up with swift buttons and bookmarks.
 
 * Power BI service. 
