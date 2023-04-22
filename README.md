@@ -199,10 +199,10 @@ Power BI reporting...
 
 
 
-## [Data Base : Microsoft Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
+## [DATA BASE : Microsoft Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
 
 ### I was able to; 
-* Model.
+* Modeling.
 (I was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM.)
 
 * Forward & Reverse Engineering.
@@ -213,16 +213,21 @@ Power BI reporting...
 For self study/ personal development 
 
 
-Project 1: MS Excel basic and advance
+## [MICROSOFT EXCEL: MS Excel basic and advance](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/7033e5445a3a96f3966918928c0d2490227b22d7)
 
-BASIC EXCEL
+### BASIC EXCEL
 
 I was able to explore some basic excel fuctions. Ranging from;
 
 Average, Sum total, Percentage Grade, Sum, Sumif, “Various count functions”, Concatenation
 If functions, VLookups XLookup etc
 
-ADVANCE EXCEL (Data analytics with MS Excel)
+![excelA](https://user-images.githubusercontent.com/108902579/183625681-6f136c1c-8538-461f-9f62-257c26d96431.PNG)
+![excelB](https://user-images.githubusercontent.com/108902579/183625745-92e29de2-cdb0-4548-a93c-e58e59c54ef0.PNG)
+![excelC](https://user-images.githubusercontent.com/108902579/183625758-f25164b2-900c-4b41-87a2-cd9683be408c.PNG)
+
+
+### ADVANCE EXCEL
 
 Exploratory data analysis (EDA)
 
@@ -239,6 +244,18 @@ Power pivot
 Power query 
 
 ETL
+
+![adexel1](https://user-images.githubusercontent.com/108902579/183625988-077e711c-e6e3-4c7f-b8d7-b7a6fc4e8185.PNG)
+
+![adexcel2](https://user-images.githubusercontent.com/108902579/183626046-808f5ebf-3dc8-4a52-bb1e-bd52d802cb62.PNG)
+
+![adexcel3](https://user-images.githubusercontent.com/108902579/183626078-6a6c561a-5608-406f-b7fa-9edef4a8567c.PNG)
+
+![adexcel4](https://user-images.githubusercontent.com/108902579/183626125-38c64cab-c53e-4d59-a960-66fe93090efc.PNG)
+
+![adexcel5](https://user-images.githubusercontent.com/108902579/183626183-a59864cf-e3b3-4738-b0c0-0c9ae7c9894f.PNG)
+
+![adexcel6](https://user-images.githubusercontent.com/108902579/183626219-7f348eb8-f658-4eec-a81f-663d9f6e3af7.PNG)
 
 
 SOFT SKILL
@@ -286,9 +303,6 @@ If functions
 
 VLookups and XLookups 
 
-![excelA](https://user-images.githubusercontent.com/108902579/183625681-6f136c1c-8538-461f-9f62-257c26d96431.PNG)
-![excelB](https://user-images.githubusercontent.com/108902579/183625745-92e29de2-cdb0-4548-a93c-e58e59c54ef0.PNG)
-![excelC](https://user-images.githubusercontent.com/108902579/183625758-f25164b2-900c-4b41-87a2-cd9683be408c.PNG)
 
 ### ADVANCE EXCEL (Data analytics with MS Excel)
 
