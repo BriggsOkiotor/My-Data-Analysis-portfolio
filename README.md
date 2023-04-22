@@ -3,12 +3,11 @@
 ***Data Analyst***
 
 ### SUMMARY
-Business Intelligence Analyst (Data analyst) with demonstrated  experience  in exploring data to develop insights into business aspect reports to aid  informed decision making.  
+Self motivated Business Intelligence Analyst (Data analyst) with demonstrated  experience  in exploring data to develop insights into business aspect reports to aid  informed decision making.  A penchant for continuous learning.   
 
-A penchant for continuous learning. 
 
 ### SKILLS.
-Analytics: MS Excel, Power BI
+Analytics/Reporting: MS Excel, Power BI
 
 Databases: MS Sql Server 
 
@@ -52,6 +51,8 @@ NATIONAL SOCIAL INVESTMENT PROGRAM (Nsip/ N-Power),
 
 APC SITUATION ROOM 2023 PRESIDENTIAL / HoA ELECTION.
 
+INSTITUTE OF CHARTERED ACCOUNTANTS OF NIGERIA (ICAN)
+
 
 ### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION.
 
@@ -70,6 +71,12 @@ You shall all    be  updated
 by 12PM to know our current stand 
 (those ahead and those behind) All the best team.)
 
+![G1](https://user-images.githubusercontent.com/108902579/233776255-f4a99bcd-3eae-411e-b19b-a35d311ce39e.GIF)
+![G2](https://user-images.githubusercontent.com/108902579/233776306-c62c0131-280f-4699-b327-9be7079e1764.GIF)
+![G3](https://user-images.githubusercontent.com/108902579/233776318-d8982769-0416-4b2f-b0b1-5f45702675d8.GIF)
+![ETL](https://user-images.githubusercontent.com/108902579/233776329-424b1ad0-4baa-4c63-868c-130abfeb94cb.jpg)
+![G4](https://user-images.githubusercontent.com/108902579/233776352-fabccbbc-8153-480b-828a-03c07345ac0a.GIF)
+![G5](https://user-images.githubusercontent.com/108902579/233776369-923fc0be-6a75-447b-aef2-0646b8308811.GIF)
 ![1 (1)](https://user-images.githubusercontent.com/108902579/229366607-a9302a82-17dd-43bd-9f33-9c24a3a50d3c.PNG)
 ![1 (2)](https://user-images.githubusercontent.com/108902579/229366611-ebdc11c0-a866-40e4-825e-0e74ac777cf1.PNG)
 ![1 (3)](https://user-images.githubusercontent.com/108902579/229366620-9a96457f-0152-48f7-ae86-ffee6dba843c.PNG)
