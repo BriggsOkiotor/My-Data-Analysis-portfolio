@@ -138,7 +138,7 @@ International standards excellence award for best the Customer Relationship Mana
 
  ***Freelance and personal development training projects on Data/ Business Intelligence analysis 2021.*** 
  
- ## [BI REPORTING : Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Power%20Bi)
+ ### [BI REPORTING : Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Power%20Bi)
  
  Project Name: Accenture (freelance) 2021
 
