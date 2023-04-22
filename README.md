@@ -7,7 +7,7 @@ THANKS FOR CHECKING OUT!!! Feel free to reach out to me. I would love to be at y
 Self motivated Business Intelligence Analyst (Data analyst) with demonstrated  experience  in exploring data to develop insights into business aspect reports to aid  informed decision making.  A penchant for continuous learning.   
 
 
-### SKILLS.
+### SKILLS
 Analytics/Reporting: MS Excel, Power BI
 
 Databases: MS Sql Server 
@@ -15,7 +15,7 @@ Databases: MS Sql Server
 Microsoft office suite: Excel, Word, Outlook 
 Power point, MS Teams etc
 
-### EXPERIENCE/ PROJECT.
+### EXPERIENCE/ PROJECT
 Company Name: Scimitar Global Service Limited  (SGSL)                                                                          
 Job role: Data Analyst 
 2022 - till date. 
@@ -55,7 +55,7 @@ APC SITUATION ROOM 2023 PRESIDENTIAL / HoA ELECTION.
 INSTITUTE OF CHARTERED ACCOUNTANTS OF NIGERIA (ICAN)
 
 
-### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION.
+### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION
 
 Created a real time analysis dashboard for contact center agent engagement. Updating the management and agent on their individual performance in real time.
 Individual call disposition, number of calls and promise to pay (PTP) from customers every three hours and consolidation of daily, weekly, monthly, quarterly and yearly report analysis using MS Excel, Power query,  power pivot and M Language / VBA Macro. With Data source from CRM loan disposition dataset and SharePoint.
@@ -99,7 +99,7 @@ Configured mail merge tool kit for swift automation of bulk mailing system. So t
 ![3](https://user-images.githubusercontent.com/108902579/229366877-f55b5e12-270d-4af6-9fa1-81f674c41661.PNG)
 
 Others include; 
-### CONTACT CENTER (CRM/Dialer) SUPPORT.
+### CONTACT CENTER (CRM/Dialer) SUPPORT
 Upload customer details to Crm/dialer for contacting/ reaching out for the sake of loan recovery 
 
 ![4,](https://user-images.githubusercontent.com/108902579/229366884-40eb8c88-4832-489e-bd9d-314583bd4358.PNG)
