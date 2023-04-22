@@ -135,7 +135,7 @@ International standards excellence award for best the Customer Relationship Mana
 ![Two](https://user-images.githubusercontent.com/108902579/230496068-d6220ed2-dc94-4a30-90ad-27b2e1236e97.PNG)
 
 
- ***As a data enthusiast, these are projects i did on my Data/ Business Intelligence analysis self practice journey 2021.*** 
+ ***As a data enthusiast, these are some of my freelance and personal development training projects on Data/ Business Intelligence analysis journey 2021.*** 
  
  ## [BI REPORTING : Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Power%20Bi)
  
@@ -199,7 +199,7 @@ Power BI reporting...
 
 
 
-## [Data Base : Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
+## [Data Base : Microsoft Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
 
 ### I was able to; 
 * Model.
