@@ -201,17 +201,17 @@ Power BI reporting...
 
 ## [Data Base : Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
 
+### I was able to; 
+* Model.
+(I was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM.)
+
+* Forward & Reverse Engineering.
+(I forwarded the model to SSMS to explore different query statements, functions and joins. And how to backup and restore databases.)
+
+* Error Fixes.
+(I also downloaded Adventure works 2012 sample database on my SSMS to explore and stay abreast of many query statements, error messages and possible fixes via research
 For self study/ personal development 
-I was able to;
 
-Model: Modeling: (I was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM.)
-
-
-Forward & Reverse Engineering. (I forwarded the model to SSMS to explore different query statements, functions and joins. And how to backup and restore databases.)
-
-Error Fixes. (I also downloaded Adventure works 2012 sample database on my SSMS to explore and stay abreast of many query statements, error messages and possible fixes via research.)
-
-self practice journey 2021.
 
 Project 1: MS Excel basic and advance
 
@@ -284,9 +284,7 @@ Concatenation
 
 If functions
 
-and VLookups. 
-
-Anomaly detection.
+VLookups and XLookups 
 
 ![excelA](https://user-images.githubusercontent.com/108902579/183625681-6f136c1c-8538-461f-9f62-257c26d96431.PNG)
 ![excelB](https://user-images.githubusercontent.com/108902579/183625745-92e29de2-cdb0-4548-a93c-e58e59c54ef0.PNG)
