@@ -161,18 +161,15 @@ Power BI service
 
 Reporting/ Dashboard 
 
+### Experience/ Project details include;
 
-ETL: Export (get) data from sharepoint, SQL server and excel workbook using the ETL functionality of Power Bi, cleaning/preparing the data for exploratory analysis, reporting and dashboard visualization.
-
-Visualization/ Report Marketing metrics: (Marketing metrics / report on Power BI desktop with source data from Sql database and sharepoint)
-Exploring the data to create an actionable, insightful report visualization/ dashboard with a solid look and feel experience matched up with swift buttons and bookmarks.
+* ETL: Export (get) data from sharepoint, SQL server and excel workbook using the ETL functionality of Power Bi, cleaning/preparing the data for exploratory analysis, reporting and dashboard visualization.
 
 Power BI service: (Publish the report to my workspace in power bi service creating dashboard board with relevant KPI’s)
 
-### Experience/ Project details include;
 
 * Modeling 
-(I was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM.) 
+(Created a relationship model/schemars with relevant joins) 
 
 * Visualization/ Report Marketing metrics.
 *  (Marketing metrics / report on Power BI desktop with source data from Sql database and sharepoint)
