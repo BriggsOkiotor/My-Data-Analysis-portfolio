@@ -1,6 +1,7 @@
 # Briggs Okiotor Portfolio
+THANKS FOR CHECKING OUT!!! Feel free to reach out to me. I would love to be at your service...
 
-***Data Analyst***
+***Data Analysis***
 
 ### SUMMARY
 Self motivated Business Intelligence Analyst (Data analyst) with demonstrated  experience  in exploring data to develop insights into business aspect reports to aid  informed decision making.  A penchant for continuous learning.   
@@ -267,4 +268,4 @@ Critical thinking.
 ## [Some Dataset/ Dataset: 1 ](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Data%20sources)
 ## [Dataset: 2](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/ed691ded5e18d1751f2127ec4b2c668aa054b9ef)
 
-THANKS FOR CHECKING OUT!!! Feel free to reach out to me. I would love to be at your service...
+Once again, thanks for checking out!!! Feel free to reach out to me. I would love to be at your service...
