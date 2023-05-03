@@ -107,6 +107,8 @@ International standards excellence award for best the Customer Relationship Mana
 
 National Branding Innovators Award  for The most outstanding B2B technology solution brand of the year ***(NBIA 2022)***
 
+![Capture1](https://user-images.githubusercontent.com/108902579/235844797-ec5d5b40-f410-4ce2-93c3-fd0ea6ea40e1.PNG)
+
  ***Freelance and personal development training projects on Data/ Business Intelligence analysis 2021.*** 
  
  ### [BI REPORTING : Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Power%20Bi)
