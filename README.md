@@ -40,7 +40,7 @@ Job role: Data Analyst
 
 .
 
-.
+### ETL
 
 .
 
@@ -135,27 +135,6 @@ Power BI service
 
 Reporting/ Dashboard 
 
-Project details include;
-
-* ETL: Export (get) data from sharepoint, SQL server and excel workbook using the ETL functionality of Power Bi, cleaning/preparing the data for exploratory analysis, reporting and dashboard visualization.
-
-Power BI service: (Publish the report to my workspace in power bi service creating dashboard board with relevant KPI’s)
-
-
-* Modeling 
-(Created a relationship model/schemars with relevant joins) 
-
-* Visualization/ Report Marketing metrics.
-*  (Marketing metrics / report on Power BI desktop with source data from Sql database, Excel workbook and sharepoint)
-Exploring the data to create an actionable, insightful report visualization/ dashboard with a solid look and feel experience matched up with swift buttons and bookmarks.
-
-* Power BI service. 
-(Publish the report to my workspace in power bi service creating dashboard board with relevant KPI's)
-
-* Data Cleaning.
-(I also created an actionable/ insightful Sales report on power Bi desktop with source data from Access db and Excel workbook. Cleaning the data to create a stunning look and feel/visualization).
- 
-Power BI reporting...
 
 ![Google M-metrics2](https://user-images.githubusercontent.com/108902579/182698757-00fa1b47-f93a-4e17-ba31-15d27720cd3b.PNG)
 
