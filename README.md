@@ -52,11 +52,9 @@ Job role: Data Analyst
 ![G2](https://user-images.githubusercontent.com/108902579/233776306-c62c0131-280f-4699-b327-9be7079e1764.GIF)
 ![1 (10)](https://user-images.githubusercontent.com/108902579/229366858-887fc57b-29b4-4fbb-82f2-854e2c6bd447.PNG)
 
-.
 
-### ETL
+### (ETL)
 
-.
 
 ![ETL](https://user-images.githubusercontent.com/108902579/233776329-424b1ad0-4baa-4c63-868c-130abfeb94cb.jpg)
 ![G4](https://user-images.githubusercontent.com/108902579/233776352-fabccbbc-8153-480b-828a-03c07345ac0a.GIF)
