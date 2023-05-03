@@ -37,12 +37,12 @@ Job role: Data Analyst
 ![G3](https://user-images.githubusercontent.com/108902579/233776318-d8982769-0416-4b2f-b0b1-5f45702675d8.GIF)
 ![1 (3)](https://user-images.githubusercontent.com/108902579/229366620-9a96457f-0152-48f7-ae86-ffee6dba843c.PNG)
 ![1 (4)](https://user-images.githubusercontent.com/108902579/229366675-a0d43268-4578-4037-96a7-70b614de8fb2.PNG)
-.
 
 .
 
 .
 
+.
 
 ![1 (5)](https://user-images.githubusercontent.com/108902579/229366721-642cb752-d3bd-4793-b03c-9013a0f5a409.PNG)
 ![1 (6)](https://user-images.githubusercontent.com/108902579/229366809-c4993409-a0dd-4ad7-8ddf-194040b1fead.PNG)
@@ -50,12 +50,23 @@ Job role: Data Analyst
 ![1 (7)](https://user-images.githubusercontent.com/108902579/229366821-3eaebdf6-3324-4891-850e-56960465f2f2.PNG)
 ![1 (8)](https://user-images.githubusercontent.com/108902579/229366840-11bfeb6f-8d03-46e0-a002-306690e4fad6.PNG)
 ![G2](https://user-images.githubusercontent.com/108902579/233776306-c62c0131-280f-4699-b327-9be7079e1764.GIF)
+![1 (10)](https://user-images.githubusercontent.com/108902579/229366858-887fc57b-29b4-4fbb-82f2-854e2c6bd447.PNG)
+
+.
+
+.
+
+.
+
 ![ETL](https://user-images.githubusercontent.com/108902579/233776329-424b1ad0-4baa-4c63-868c-130abfeb94cb.jpg)
 ![G4](https://user-images.githubusercontent.com/108902579/233776352-fabccbbc-8153-480b-828a-03c07345ac0a.GIF)
-
 ![G5](https://user-images.githubusercontent.com/108902579/233776369-923fc0be-6a75-447b-aef2-0646b8308811.GIF)
 
-![1 (10)](https://user-images.githubusercontent.com/108902579/229366858-887fc57b-29b4-4fbb-82f2-854e2c6bd447.PNG)
+.
+
+.
+
+.
 
 ### [HR ANALYTICS](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/2.%20HR%20DATA%20ANALYSIS.xlsx)
 
