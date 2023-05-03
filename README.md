@@ -48,15 +48,11 @@ Job role: Data Analyst
 ![1 (6)](https://user-images.githubusercontent.com/108902579/229366809-c4993409-a0dd-4ad7-8ddf-194040b1fead.PNG)
 ![1 (9)](https://user-images.githubusercontent.com/108902579/229366844-5c3ef12a-0daf-40cc-ade2-980e22f59eb4.PNG)
 ![1 (7)](https://user-images.githubusercontent.com/108902579/229366821-3eaebdf6-3324-4891-850e-56960465f2f2.PNG)
-
 ![1 (8)](https://user-images.githubusercontent.com/108902579/229366840-11bfeb6f-8d03-46e0-a002-306690e4fad6.PNG)
+![G2](https://user-images.githubusercontent.com/108902579/233776306-c62c0131-280f-4699-b327-9be7079e1764.GIF)
+![ETL](https://user-images.githubusercontent.com/108902579/233776329-424b1ad0-4baa-4c63-868c-130abfeb94cb.jpg)
 ![G4](https://user-images.githubusercontent.com/108902579/233776352-fabccbbc-8153-480b-828a-03c07345ac0a.GIF)
 
-
-
-![G2](https://user-images.githubusercontent.com/108902579/233776306-c62c0131-280f-4699-b327-9be7079e1764.GIF)
-
-![ETL](https://user-images.githubusercontent.com/108902579/233776329-424b1ad0-4baa-4c63-868c-130abfeb94cb.jpg)
 ![G5](https://user-images.githubusercontent.com/108902579/233776369-923fc0be-6a75-447b-aef2-0646b8308811.GIF)
 
 ![1 (10)](https://user-images.githubusercontent.com/108902579/229366858-887fc57b-29b4-4fbb-82f2-854e2c6bd447.PNG)
