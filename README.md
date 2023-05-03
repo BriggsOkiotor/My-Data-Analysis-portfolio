@@ -40,7 +40,7 @@ Job role: Data Analyst
 
 .
 
-### ETL
+.
 
 .
 
@@ -54,17 +54,13 @@ Job role: Data Analyst
 
 .
 
-.
+### ETL
 
 .
 
 ![ETL](https://user-images.githubusercontent.com/108902579/233776329-424b1ad0-4baa-4c63-868c-130abfeb94cb.jpg)
 ![G4](https://user-images.githubusercontent.com/108902579/233776352-fabccbbc-8153-480b-828a-03c07345ac0a.GIF)
 ![G5](https://user-images.githubusercontent.com/108902579/233776369-923fc0be-6a75-447b-aef2-0646b8308811.GIF)
-
-.
-
-.
 
 .
 
