@@ -74,12 +74,14 @@ Job role: Data Analyst
 ![3](https://user-images.githubusercontent.com/108902579/229366877-f55b5e12-270d-4af6-9fa1-81f674c41661.PNG)
 
 Others include; 
-### CONTACT CENTER (CRM/Dialer) SUPPORT 
+### CONTACT CENTER (CRM/Dialer) SUPPORT
+
 ![4,](https://user-images.githubusercontent.com/108902579/229366884-40eb8c88-4832-489e-bd9d-314583bd4358.PNG)
 ![4](https://user-images.githubusercontent.com/108902579/229366911-048ae4e9-8e65-48cd-b431-169c62c35f1a.PNG)
 ![4](https://user-images.githubusercontent.com/108902579/229366920-3e99ae9f-85b1-4e76-a175-4794babc04f9.PNG)
 
-### LEAD GENERATION /SALES PIPELINE 
+### LEAD GENERATION /SALES PIPELINE
+
 ![5](https://user-images.githubusercontent.com/108902579/229366951-58023f92-e668-4277-8265-c59c4cec9c2b.PNG)
 
 ### [SITUATION ROOM 2023 PRESIDENTIAL ELECTION](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/7.%20PRESENTATION%203-16-2023.pptx)
@@ -103,6 +105,7 @@ International standards excellence award for best the Customer Relationship Mana
 
 ![Two](https://user-images.githubusercontent.com/108902579/230496068-d6220ed2-dc94-4a30-90ad-27b2e1236e97.PNG)
 
+National Branding Innovators Award  for The most outstanding B2B technology solution brand of the year ***(NBIA 2022)***
 
  ***Freelance and personal development training projects on Data/ Business Intelligence analysis 2021.*** 
  
