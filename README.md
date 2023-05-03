@@ -4,7 +4,16 @@ THANKS FOR CHECKING OUT!!! Feel free to reach out to me. I would love to be at y
 ***Data Analysis***
 
 ### SUMMARY
-Self motivated Business Intelligence Analyst (Data analyst) with demonstrated  experience  in exploring data to develop insights into business aspect reports to aid  informed decision making.  A penchant for continuous learning.   
+As a proactive computer science professional  with years of experience and proven knowledge of data/business intelligence analysis reporting, problem solving, leadership and management. 
+
+I have helped business owners and stakeholders unlock insight from the pool of data generated in real time, share these insights, make projections that assist teams to remain focused and motivated towards the set KPIs required to achieve the business goals and objectives.
+A creative and detailed data analyst with proven experience  in data cleaning,transformation ,visualization, reporting and insight generation. 
+
+I love thinking through complicated datasets and making sense out of it. I can help you build a clear and insightful dashboard report that will enable you to make data driven decisions.
+
+For more details to the Title headings and infographics below kindly request my Resume or schedule a meeting at 
+okiotorbriggs@gmail.com / bokiotor@outlook.com
+   
 
 
 ### SKILLS
@@ -34,53 +43,19 @@ Lead generation sales pipeline/funnel
 
 Reporting, Meetings and Presentations
 
-### PRODUCT (LoB)
-
-FAIRMONEY MICROFINANCE BANK
-
-QUICK CHECK/ JUMIA PAY
-
-BLACK COPPER LOAN AGENCY
-
-TANGERINE LOAN AGENCY
-
-AELLA LOAN AGENCY
-
-BAINS CREDIT LOAN AGENCY
-
-NATIONAL SOCIAL INVESTMENT PROGRAM (Nsip/ N-Power),
-
-APC SITUATION ROOM 2023 PRESIDENTIAL / HoA ELECTION.
-
-INSTITUTE OF CHARTERED ACCOUNTANTS OF NIGERIA (ICAN)
-
+### PRODUCT (Multiple product)
 
 ### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION
-
-Created a real time analysis dashboard for contact center agent engagement. Updating the management and agent on their individual performance in real time.
-Individual call disposition, number of calls and promise to pay (PTP) from customers every three hours and consolidation of daily, weekly, monthly, quarterly and yearly report analysis using MS Excel, Power query,  power pivot and M Language / VBA Macro. With Data source from CRM loan disposition dataset and SharePoint.
-
-There by providing data driven insight to management and quality assurance (Q/A) officers to enable them make informed business decisions judging from agents performance KPI and recovery margin
-And setting a healthy competition, motivating agents by letting them know where they are in real time, who is ahead, who is behind and how they can do better, supported by a stunning closing remark. 
-
-Examples are;
-(Kindly remember to TAG YOUR CALLS PROPERLY, Your daily Target (KPI), 
-Your call scripts,  Your AHT and 
-get more intentional. Keep your energy and 
-strategy consistent.
-You shall all    be  updated 
-by 12PM to know our current stand 
-(those ahead and those behind) All the best team.)
 
 ![G1](https://user-images.githubusercontent.com/108902579/233776255-f4a99bcd-3eae-411e-b19b-a35d311ce39e.GIF)
 ![G2](https://user-images.githubusercontent.com/108902579/233776306-c62c0131-280f-4699-b327-9be7079e1764.GIF)
 ![G3](https://user-images.githubusercontent.com/108902579/233776318-d8982769-0416-4b2f-b0b1-5f45702675d8.GIF)
+![1 (2)](https://user-images.githubusercontent.com/108902579/229366611-ebdc11c0-a866-40e4-825e-0e74ac777cf1.PNG)
+![1 (3)](https://user-images.githubusercontent.com/108902579/229366620-9a96457f-0152-48f7-ae86-ffee6dba843c.PNG)
+
 ![ETL](https://user-images.githubusercontent.com/108902579/233776329-424b1ad0-4baa-4c63-868c-130abfeb94cb.jpg)
 ![G4](https://user-images.githubusercontent.com/108902579/233776352-fabccbbc-8153-480b-828a-03c07345ac0a.GIF)
 ![G5](https://user-images.githubusercontent.com/108902579/233776369-923fc0be-6a75-447b-aef2-0646b8308811.GIF)
-![1 (1)](https://user-images.githubusercontent.com/108902579/229366607-a9302a82-17dd-43bd-9f33-9c24a3a50d3c.PNG)
-![1 (2)](https://user-images.githubusercontent.com/108902579/229366611-ebdc11c0-a866-40e4-825e-0e74ac777cf1.PNG)
-![1 (3)](https://user-images.githubusercontent.com/108902579/229366620-9a96457f-0152-48f7-ae86-ffee6dba843c.PNG)
 ![1 (4)](https://user-images.githubusercontent.com/108902579/229366675-a0d43268-4578-4037-96a7-70b614de8fb2.PNG)
 ![1 (5)](https://user-images.githubusercontent.com/108902579/229366721-642cb752-d3bd-4793-b03c-9013a0f5a409.PNG)
 ![1 (6)](https://user-images.githubusercontent.com/108902579/229366809-c4993409-a0dd-4ad7-8ddf-194040b1fead.PNG)
