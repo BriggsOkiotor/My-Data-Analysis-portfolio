@@ -48,13 +48,17 @@ Reporting, Meetings and Presentations
 ### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION
 
 ![G1](https://user-images.githubusercontent.com/108902579/233776255-f4a99bcd-3eae-411e-b19b-a35d311ce39e.GIF)
-![G2](https://user-images.githubusercontent.com/108902579/233776306-c62c0131-280f-4699-b327-9be7079e1764.GIF)
 ![G3](https://user-images.githubusercontent.com/108902579/233776318-d8982769-0416-4b2f-b0b1-5f45702675d8.GIF)
-![1 (2)](https://user-images.githubusercontent.com/108902579/229366611-ebdc11c0-a866-40e4-825e-0e74ac777cf1.PNG)
 ![1 (3)](https://user-images.githubusercontent.com/108902579/229366620-9a96457f-0152-48f7-ae86-ffee6dba843c.PNG)
+![1 (2)](https://user-images.githubusercontent.com/108902579/229366611-ebdc11c0-a866-40e4-825e-0e74ac777cf1.PNG)
+
+![G4](https://user-images.githubusercontent.com/108902579/233776352-fabccbbc-8153-480b-828a-03c07345ac0a.GIF)
+
+
+
+![G2](https://user-images.githubusercontent.com/108902579/233776306-c62c0131-280f-4699-b327-9be7079e1764.GIF)
 
 ![ETL](https://user-images.githubusercontent.com/108902579/233776329-424b1ad0-4baa-4c63-868c-130abfeb94cb.jpg)
-![G4](https://user-images.githubusercontent.com/108902579/233776352-fabccbbc-8153-480b-828a-03c07345ac0a.GIF)
 ![G5](https://user-images.githubusercontent.com/108902579/233776369-923fc0be-6a75-447b-aef2-0646b8308811.GIF)
 ![1 (4)](https://user-images.githubusercontent.com/108902579/229366675-a0d43268-4578-4037-96a7-70b614de8fb2.PNG)
 ![1 (5)](https://user-images.githubusercontent.com/108902579/229366721-642cb752-d3bd-4793-b03c-9013a0f5a409.PNG)
@@ -65,29 +69,20 @@ Reporting, Meetings and Presentations
 ![1 (10)](https://user-images.githubusercontent.com/108902579/229366858-887fc57b-29b4-4fbb-82f2-854e2c6bd447.PNG)
 
 ### [HR ANALYTICS](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/2.%20HR%20DATA%20ANALYSIS.xlsx)
-Design HR analytics dashboard to monitor and track attendance (punctuality) and performance (PIP) using advanced MS Excel (conditional formatting)
-
 
 ### EMAIL MARKETING  
-Configured mail merge tool kit for swift automation of bulk mailing system. So that every individual recipient (customer) receives his/her personalized mail content in a pdf or html format using MS Excel, MS Word and MS outlook.
-
 ![3](https://user-images.githubusercontent.com/108902579/229366877-f55b5e12-270d-4af6-9fa1-81f674c41661.PNG)
 
 Others include; 
-### CONTACT CENTER (CRM/Dialer) SUPPORT
-Upload customer details to Crm/dialer for contacting/ reaching out for the sake of loan recovery 
-
+### CONTACT CENTER (CRM/Dialer) SUPPORT 
 ![4,](https://user-images.githubusercontent.com/108902579/229366884-40eb8c88-4832-489e-bd9d-314583bd4358.PNG)
 ![4](https://user-images.githubusercontent.com/108902579/229366911-048ae4e9-8e65-48cd-b431-169c62c35f1a.PNG)
 ![4](https://user-images.githubusercontent.com/108902579/229366920-3e99ae9f-85b1-4e76-a175-4794babc04f9.PNG)
 
 ### LEAD GENERATION /SALES PIPELINE 
-Created sales/ lead generation pipeline (funnel) for multiple users with restricted access to a centralized dashboard using MS Excel.
 ![5](https://user-images.githubusercontent.com/108902579/229366951-58023f92-e668-4277-8265-c59c4cec9c2b.PNG)
 
-### [SITUATION ROOM 2023 ELECTION](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/7.%20PRESENTATION%203-16-2023.pptx)
-Delivered real time situation report analysis dashboard for 2023 presidential election every 3 hours and a consolidation for the whole day 02/25/2023 with necessary slicers using MS Excel, Power query and Power pivot.
-
+### [SITUATION ROOM 2023 PRESIDENTIAL ELECTION](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/7.%20PRESENTATION%203-16-2023.pptx)
 ![6](https://user-images.githubusercontent.com/108902579/229367065-aad0e83c-ee7c-419f-9509-7c8ec2dbb342.jpeg)
 ![6](https://user-images.githubusercontent.com/108902579/229367080-d6bfa393-1efc-469a-bd74-d9a04d3a79fa.jpeg)
 ![6](https://user-images.githubusercontent.com/108902579/229367087-c11d40ff-f0f2-4e03-a267-45d9684f6992.PNG)
@@ -96,12 +91,10 @@ Delivered real time situation report analysis dashboard for 2023 presidential el
 ### [Business/Data Analysis Power Point Executive Presentation](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/7.%20PRESENTATION%203-16-2023.pptx)
 ### REPORTING, MEETINGS &  PRESENTATION
 
-Executive update on work deliverables, updates, challenges, suggestions, agent engagement,  agent performance and Recovery performance using Powerpoint presentation.
-
-
 ### ACHIEVEMENTS:
 
-As a company, together we were honored with
+As a company, together we were honored with;
+
 Africa most innovative contact center solution provider of the year. ***(Africa Brand Congress. ABC 2022)***
 
 ![One](https://user-images.githubusercontent.com/108902579/230496179-9d4e5f95-132d-4e90-9749-43a7550c8c1e.PNG)
