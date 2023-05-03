@@ -6,7 +6,7 @@ THANKS FOR CHECKING OUT!!! Feel free to reach out to me. I would love to be at y
 ### SUMMARY
 As a proactive computer science professional  with years of experience and proven knowledge of data/business intelligence analysis reporting, problem solving, leadership and management. 
 
-I have helped business owners and stakeholders unlock insight from the pool of data generated in real time, share these insights, make projections that assist teams to remain focused and motivated towards the set KPIs required to achieve the business goals and objectives.
+I have helped business owners and stakeholders unlock insight from the pool of data generated in real time, share these insights, to make projections that assist teams to remain focused and motivated towards the set KPIs required to achieve the business goals and objectives.
 A creative and detailed data analyst with proven experience  in data cleaning,transformation ,visualization, reporting and insight generation. 
 
 I love thinking through complicated datasets and making sense out of it. I can help you build a clear and insightful dashboard report that will enable you to make data driven decisions.
@@ -62,7 +62,6 @@ Job role: Data Analyst
 ![G4](https://user-images.githubusercontent.com/108902579/233776352-fabccbbc-8153-480b-828a-03c07345ac0a.GIF)
 ![G5](https://user-images.githubusercontent.com/108902579/233776369-923fc0be-6a75-447b-aef2-0646b8308811.GIF)
 
-.
 
 ### [HR ANALYTICS](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/2.%20HR%20DATA%20ANALYSIS.xlsx)
 
