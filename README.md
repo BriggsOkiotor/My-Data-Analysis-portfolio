@@ -132,10 +132,6 @@ Reporting/ Dashboard
 
 ![Chelvro](https://user-images.githubusercontent.com/108902579/182698850-ef00e3e0-bc4a-482b-b5b2-deab0e67bf6f.PNG)
 
-![Chelvro2](https://user-images.githubusercontent.com/108902579/182698868-3aaa9ad5-0a08-4e4e-a48c-6ea685d1d77b.PNG)
-
-
-
 ## [DATA BASE : Microsoft Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
 
 ### I was able to; 
