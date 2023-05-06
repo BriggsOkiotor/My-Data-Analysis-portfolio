@@ -1,5 +1,5 @@
 # Briggs Okiotor Portfolio
-THANKS FOR CHECKING OUT!!! Feel free to reach out to me. I would love to be at your service...
+THANKS FOR CHECKING OUT!!! Feel free to reach out to me. I love to be at your service...
 
 ***Data Analysis***
 
