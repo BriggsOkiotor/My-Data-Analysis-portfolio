@@ -132,7 +132,7 @@ Power BI service
 ![Sales Dbd2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/75a0747a-2d3b-4975-92b9-898a97f8b5c6)
 ![Sales Ddb3](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/9eeb533c-efa5-43c2-b95f-8da9d541dbde)
 
-***Hotel Reporting/ Dashboard (Hospitality domain)***
+## [HOTEL/ HOSPITALITY DASHBOARD REPORTING : Power BI Prijects](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Hospitality%20report%20with%20Briggs%20O..pbix)
 
 ![H1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/66c1bfe3-748b-47d6-8e9f-8a9ef425e40b)
 ![H2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/e90aeabc-ff01-4c1f-b514-550f6215f8f6)
