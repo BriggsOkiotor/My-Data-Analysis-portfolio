@@ -104,7 +104,6 @@ National Branding Innovators Award  for The most outstanding B2B technology solu
 
  ***Freelance and personal development training projects on Data/ Business Intelligence analysis 2021.*** 
  
- ## [REPORTING : Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-milestone/tree/main/Power%20Bi)
  
  Project Name: Accenture (freelance) 2021
 
@@ -126,7 +125,10 @@ Data Modeling
 
 Power BI service 
 
-***Sales Reporting/ Dashboard***
+## [Sales Reporting/ Dashboard: Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Sales%20Dashboard%20with%20Briggs.pbix)
+
+
+https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Sales%20Dashboard%20with%20Briggs.pbix
 
 ![Sales Ddb1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/1bc26250-6f18-4a7b-bace-9db62cb5ab40)
 ![Sales Dbd2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/75a0747a-2d3b-4975-92b9-898a97f8b5c6)
