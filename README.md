@@ -127,10 +127,13 @@ Data Modeling
 Power BI service 
 
 Reporting/ Dashboard 
+![Sales Ddb1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/1bc26250-6f18-4a7b-bace-9db62cb5ab40)
+![Sales Dbd2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/75a0747a-2d3b-4975-92b9-898a97f8b5c6)
+![Sales Ddb3](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/9eeb533c-efa5-43c2-b95f-8da9d541dbde)
 
-![Chelvro3](https://user-images.githubusercontent.com/108902579/182698818-b003c56c-0d12-46ab-8710-b9d261a9caeb.PNG)
+![H1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/66c1bfe3-748b-47d6-8e9f-8a9ef425e40b)
+![H2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/e90aeabc-ff01-4c1f-b514-550f6215f8f6)
 
-![Chelvro](https://user-images.githubusercontent.com/108902579/182698850-ef00e3e0-bc4a-482b-b5b2-deab0e67bf6f.PNG)
 
 ## [DATA BASE : Microsoft Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
 
