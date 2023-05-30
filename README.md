@@ -125,14 +125,14 @@ Data Modeling
 
 Power BI service 
 
-## [SALES DASHBOARD REPORTING : Power BI Projects](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Sales%20Dashboard%20with%20Briggs.pbix)
+## [SALES DASHBOARD REPORTING : Power BI Project](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Sales%20Dashboard%20with%20Briggs.pbix)
 
 
 ![Sales Ddb1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/1bc26250-6f18-4a7b-bace-9db62cb5ab40)
 ![Sales Dbd2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/75a0747a-2d3b-4975-92b9-898a97f8b5c6)
 ![Sales Ddb3](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/9eeb533c-efa5-43c2-b95f-8da9d541dbde)
 
-## [HOTEL/ HOSPITALITY DASHBOARD REPORTING : Power BI Prijects](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Hospitality%20report%20with%20Briggs%20O..pbix)
+## [HOTEL/ HOSPITALITY DASHBOARD REPORTING : Power BI Project](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Hospitality%20report%20with%20Briggs%20O..pbix)
 
 ![H1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/66c1bfe3-748b-47d6-8e9f-8a9ef425e40b)
 ![H2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/e90aeabc-ff01-4c1f-b514-550f6215f8f6)
