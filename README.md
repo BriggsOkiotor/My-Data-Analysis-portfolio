@@ -92,6 +92,10 @@ It captures; Emloyee and job satisfaction level,
 Overtime and ratings by department.
 [HR ANALYTICS](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/2.%20HR%20DATA%20ANALYSIS.xlsx)
 
+![HR 1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/dd722248-3605-4dba-93e6-23dee4e1cc2d)
+![HR 2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/0ba7c535-6ca7-4caa-823f-efb4ba837949)
+![HR 3](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/35fd9b3d-fd1e-4b67-916c-24fb358f169f)
+
 
 
 ### EMAIL MARKETING:
