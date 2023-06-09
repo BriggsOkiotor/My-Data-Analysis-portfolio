@@ -34,7 +34,7 @@ INSTITUTE  OF  CHARTERED  ACCOUNTANTS  OF  NIGERIA  (ICAN)
 
 ### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION:
 
-Created a real time Analysis Dashboard featuring a power bi  gauge chart to measure and track agents engagement and daily loan recovery as against their (agents) set target (KPI) for the month. Updating management and agent on agents individual performance and loan recoveries in real time.
+Created a real time Analysis Dashboard with advance Excel, featuring a power bi  gauge chart to measure and track agents engagement and daily loan recovery as call against set target (KPI) for the month. Updating management and agent on agents individual performance and loan recoveries in real time.
 
 Agent individual call disposition, numbers of calls and promise to pay (PTP) from customers every three hours and consolidation of daily, weekly, monthly, quarterly and yearly report analysis using advanced Excel, Power query, ETL, Power pivot with data source from Crm loan disposition sheet dataset and SharePoint.
 
@@ -70,13 +70,9 @@ by  12PM  to  know  our  current  stand
 ![1 (10)](https://user-images.githubusercontent.com/108902579/229366858-887fc57b-29b4-4fbb-82f2-854e2c6bd447.PNG)
 
 
-![ETL](https://user-images.githubusercontent.com/108902579/233776329-424b1ad0-4baa-4c63-868c-130abfeb94cb.jpg)
-![G4](https://user-images.githubusercontent.com/108902579/233776352-fabccbbc-8153-480b-828a-03c07345ac0a.GIF)
-![G5](https://user-images.githubusercontent.com/108902579/233776369-923fc0be-6a75-447b-aef2-0646b8308811.GIF)
-
 ### HR ANALYSIS 
-HR  analytics  dashboard report to  monitor  and  track  attendance  (punctuality)  and  performance
-(PIP)  using  advanced  MS  Excel  (conditional  formatting) and various functions
+HR  analytics  dashboard report to  monitor  and  track  attendance  (punctuality)  and  performance 
+using  advanced  MS  Excel  (conditional  formatting) and various functions
 
 Total number of employee in the organisation, 
 both male and female, does due for promotion or not due.
@@ -90,87 +86,11 @@ service year and their home distance status to work.
 
 It captures; Emloyee and job satisfaction level, 
 Overtime and ratings by department.
-[HR ANALYTICS](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/2.%20HR%20DATA%20ANALYSIS.xlsx)
-
+[HR ANALYTICS 1](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/2.%20HR%20DATA%20ANALYSIS.xlsx)
+[HR ANALYTICS 2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/HR%20Analytics%20With%20Briggs%20O..pbix)
 ![HR 1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/dd722248-3605-4dba-93e6-23dee4e1cc2d)
 ![HR 2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/0ba7c535-6ca7-4caa-823f-efb4ba837949)
 ![HR 3](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/35fd9b3d-fd1e-4b67-916c-24fb358f169f)
-
-
-
-### EMAIL MARKETING:
-Configured  mail  merge  tool  kit  for  swift  automation  of  bulk  mailing  system.  So  that  every
-individual  recipient  (customer)  receives  his/her  personalized  mail  content  in  a  pdf  or  html  format
-using  MS  Excel,  MS  Word  and  MS  outlook.
-![3](https://user-images.githubusercontent.com/108902579/229366877-f55b5e12-270d-4af6-9fa1-81f674c41661.PNG)
-
-
-
-Others include; 
-### CONTACT CENTER (CRM/Dialer) SUPPORT/PROBE ANALYTICS:
-CONTACT  CENTER  (CRM/Dialer)  SUPPORT.
-Upload  customer  details  to  Crm/dialer  for  contacting/  reaching  out  for  the  sake  of  loan  recovery
-and conducting daily CRM/Dailer Probe analytics to ensure the various software solution is performing as it ought to
-thereby uptimizing inboun and outbound call performance
-
-![4,](https://user-images.githubusercontent.com/108902579/229366884-40eb8c88-4832-489e-bd9d-314583bd4358.PNG)
-![4](https://user-images.githubusercontent.com/108902579/229366911-048ae4e9-8e65-48cd-b431-169c62c35f1a.PNG)
-![4](https://user-images.githubusercontent.com/108902579/229366920-3e99ae9f-85b1-4e76-a175-4794babc04f9.PNG)
-
-### LEAD GENERATION /SALES PIPELINE:
-LEAD  GENERATION  /SALES  PIPELINE
-Created  sales/  lead  generation  pipeline  (funnel)  for  multiple  users  with  restricted  access  to  a
-centralized  dashboard  using  MS  Excel.
-![5](https://user-images.githubusercontent.com/108902579/229366951-58023f92-e668-4277-8265-c59c4cec9c2b.PNG)
-
-### SITUATION  ROOM  2023  ELECTION:
-Delivered  real  time  situation  report  analysis  dashboard  for  2023  presidential  election  every  3
-hours  and  a  consolidation  for  the  whole  day  02/25/2023  with  necessary  slicers  using Advance MS  Excel,
-Power  query  and  Power  pivot.
-
-[SITUATION ROOM 2023 PRESIDENTIAL ELECTION](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/7.%20PRESENTATION%203-16-2023.pptx)
-![6](https://user-images.githubusercontent.com/108902579/229367065-aad0e83c-ee7c-419f-9509-7c8ec2dbb342.jpeg)
-![6](https://user-images.githubusercontent.com/108902579/229367080-d6bfa393-1efc-469a-bd74-d9a04d3a79fa.jpeg)
-![6](https://user-images.githubusercontent.com/108902579/229367087-c11d40ff-f0f2-4e03-a267-45d9684f6992.PNG)
-
-### REPORTING, MEETINGS &  PRESENTATION:
-Executive  update  on  work  deliverables,  updates,  challenges,  suggestions,  agent  engagement,
-agent  performance  and  Recovery  performance  using  Powerpoint  presentation.
-[Business/Data Analysis Power Point Executive Presentation](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/7.%20PRESENTATION%203-16-2023.pptx)
-
-
-### EDA - ETL:
-Data cleaning  / Data exploration / Data visualization / Data Modeling / Power BI service 
-
-ETL:  Export  (get)  data  from  sharepoint,  SQL  server  and  excel  workbook  using  the  ETL
-functionality  of  Power  Bi,  cleaning/preparing  the  data  for  exploratory  analysis,  reporting  and
-dashboard  visualization.
-Power  BI  service:  (Publish  the  report  to  my  workspace  in  power  bi  service  creating  dashboard
-board  with  relevant  KPI’s)
-MODELING:  (Created  a  relationship  model/schemars  with  relevant  joins)
-
-### VISUALIZATION/  REPORT: 
-Developing dashboard / report  on  Power  BI  desktop  with  source  data
-from  Sql  database,  Excel  workbook  and  sharepoint.  Exploring  the  data  to  create  an  actionable,
-insightful  report  visualization/  dashboard  with  a  solid  look  and  feel  experience  matched  up  with
-swift  buttons  and  bookmarks.
-
-### POWER  BI  SERVICE: 
-Publish  the  report  to  my  workspace  in  power  bi  service  creating
-dashboard  board  with  relevant  KPI’s
-DATA  CLEANING:    (I  also  created  an  actionable/  insightful  Sales  report  on  power  Bi  desktop
-with  source  data  from  Sql  database,  Excel  workbook  and  sharepoint.  Cleaning  the  data  to
-create  a  stunning  look  and  feel/visualization).
-Power  BI  reporting…
-
-### DATA  BASE Modeling: 
-Create  a  sample  business  model  for  XYZ  Super  store  from  scratch  to
-finish  using  Excel  and  SqlDBM.)
-Forward  &  Reverse  Engineering.  (I  forwarded  the  model  to  SSMS  to  explore  different  query
-statements,  functions  and  joins.  And  how  to  backup  and  restore  databases.)
-Error  Fixes.  (I  also  downloaded  Adventure  works  2012  sample  database  on  my  SSMS  to
-explore  and  stay  abreast  of  many  query  statements,  error  messages  and  possible  fixes  via
-research  For  self  study/  personal  development
 
 ### SALES INSIGHT:
 My full insight HR Analysis dashboard focuses
@@ -233,10 +153,7 @@ Occupancy WoW change % -
 
 All of which can be slice/drill by Room class, City
 Month and week
-
 ### [SALES DASHBOARD REPORTING : Power BI Project](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Sales%20Dashboard%20with%20Briggs.pbix)
-
-
 ![Sales Ddb1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/1bc26250-6f18-4a7b-bace-9db62cb5ab40)
 ![Sales Dbd2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/75a0747a-2d3b-4975-92b9-898a97f8b5c6)
 ![Sales Ddb3](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/9eeb533c-efa5-43c2-b95f-8da9d541dbde)
@@ -247,18 +164,39 @@ Month and week
 ![H1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/66c1bfe3-748b-47d6-8e9f-8a9ef425e40b)
 ![H2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/e90aeabc-ff01-4c1f-b514-550f6215f8f6)
 
+### EDA - ETL:
+Data cleaning  / Data exploration / Data visualization / Data Modeling / Power BI service 
 
+ETL:  Export  (get)  data  from  sharepoint,  SQL  server  and  excel  workbook  using  the  ETL
+functionality  of  Power  Bi,  cleaning/preparing  the  data  for  exploratory  analysis,  reporting  and
+dashboard  visualization.
+Power  BI  service:  (Publish  the  report  to  my  workspace  in  power  bi  service  creating  dashboard
+board  with  relevant  KPI’s)
+MODELING:  (Created  a  relationship  model/schemars  with  relevant  joins)
+![ETL](https://user-images.githubusercontent.com/108902579/233776329-424b1ad0-4baa-4c63-868c-130abfeb94cb.jpg)
+![G4](https://user-images.githubusercontent.com/108902579/233776352-fabccbbc-8153-480b-828a-03c07345ac0a.GIF)
+![G5](https://user-images.githubusercontent.com/108902579/233776369-923fc0be-6a75-447b-aef2-0646b8308811.GIF)
 
+### VISUALIZATION/  REPORT: 
+Dashboard report  on  Power  BI  desktop  with  source  data
+from  Sql  database,  Excel  workbook  and  sharepoint.  Exploring  the  data  to  create  an  actionable,
+insightful  report  visualization/  dashboard  with  a  solid  look  and  feel  experience  matched  up  with
+swift  buttons  and  bookmarks.
+
+### POWER  BI  SERVICE: 
+Publish  the  report  to  my  workspace  in  power  bi  service  creating
+dashboard  board  with  relevant  KPI’s
 
 ### SQL SERVER: 
 * Modeling.
-(I was able to create a sample business model for XYZ Super store from scratch to finish using Excel and SqlDBM.)
+Create  a  sample  business  model  for a fictional Super  store  from  scratch  to
+finish  using  Excel  and  SqlDBM.
 
 * Forward & Reverse Engineering.
-(I forwarded the model to SSMS to explore different query statements, functions and joins. And how to backup and restore databases.)
+Forwarded the model to SSMS to explore different query statements, functions and joins. And how to backup and restore databases.
 
 * Error Fixes.
-(I also downloaded Adventure works 2012 sample database on my SSMS to explore and stay abreast of many query statements, error messages and possible fixes via research
+Downloaded Adventure works 2012 sample database on my SSMS to explore and stay abreast of many query statements, error messages and possible fixes via research
 For self study/ personal development 
 [DATA BASE : Microsoft Sql Server](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
 
@@ -292,6 +230,48 @@ Functions / X&V Lookups / Chart and Graphs
 ![adexcel5](https://user-images.githubusercontent.com/108902579/183626183-a59864cf-e3b3-4738-b0c0-0c9ae7c9894f.PNG)
 
 ![adexcel6](https://user-images.githubusercontent.com/108902579/183626219-7f348eb8-f658-4eec-a81f-663d9f6e3af7.PNG)
+
+### EMAIL MARKETING:
+Configured  mail  merge  tool  kit  for  swift  automation  of  bulk  mailing  system.  So  that  every
+individual  recipient  (customer)  receives  his/her  personalized  mail  content  in  a  pdf  or  html  format
+using  MS  Excel,  MS  Word  and  MS  outlook.
+![3](https://user-images.githubusercontent.com/108902579/229366877-f55b5e12-270d-4af6-9fa1-81f674c41661.PNG)
+
+
+
+Others include; 
+### CONTACT CENTER (CRM/Dialer) SUPPORT/PROBE ANALYTICS:
+CONTACT  CENTER  (CRM/Dialer)  SUPPORT.
+Upload  customer  details  to  Crm/dialer  for  contacting/  reaching  out  for  the  sake  of  loan  recovery
+and conducting daily CRM/Dailer Probe analytics to ensure the various software solution is performing as it ought to
+thereby uptimizing inboun and outbound call performance
+
+![4,](https://user-images.githubusercontent.com/108902579/229366884-40eb8c88-4832-489e-bd9d-314583bd4358.PNG)
+![4](https://user-images.githubusercontent.com/108902579/229366911-048ae4e9-8e65-48cd-b431-169c62c35f1a.PNG)
+![4](https://user-images.githubusercontent.com/108902579/229366920-3e99ae9f-85b1-4e76-a175-4794babc04f9.PNG)
+
+### LEAD GENERATION /SALES PIPELINE:
+LEAD  GENERATION  /SALES  PIPELINE
+Created  sales/  lead  generation  pipeline  (funnel)  for  multiple  users  with  restricted  access  to  a
+centralized  dashboard  using  MS  Excel.
+![5](https://user-images.githubusercontent.com/108902579/229366951-58023f92-e668-4277-8265-c59c4cec9c2b.PNG)
+
+### SITUATION  ROOM  2023  ELECTION:
+Delivered  real  time  situation  report  analysis  dashboard  for  2023  presidential  election  every  3
+hours  and  a  consolidation  for  the  whole  day  02/25/2023  with  necessary  slicers  using Advance MS  Excel,
+Power  query  and  Power  pivot.
+
+[SITUATION ROOM 2023 PRESIDENTIAL ELECTION](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/7.%20PRESENTATION%203-16-2023.pptx)
+![6](https://user-images.githubusercontent.com/108902579/229367065-aad0e83c-ee7c-419f-9509-7c8ec2dbb342.jpeg)
+![6](https://user-images.githubusercontent.com/108902579/229367080-d6bfa393-1efc-469a-bd74-d9a04d3a79fa.jpeg)
+![6](https://user-images.githubusercontent.com/108902579/229367087-c11d40ff-f0f2-4e03-a267-45d9684f6992.PNG)
+
+### REPORTING, MEETINGS &  PRESENTATION:
+Executive  update  on  work  deliverables,  updates,  challenges,  suggestions,  agent  engagement,
+agent  performance  and  Recovery  performance  using  Powerpoint  presentation.
+[Business/Data Analysis Power Point Executive Presentation](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/7.%20PRESENTATION%203-16-2023.pptx)
+
+
 
 ### ACHIEVEMENTS:
 
