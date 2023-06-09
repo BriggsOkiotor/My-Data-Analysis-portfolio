@@ -64,10 +64,8 @@ by  12PM  to  know  our  current  stand
 ![1 (5)](https://user-images.githubusercontent.com/108902579/229366721-642cb752-d3bd-4793-b03c-9013a0f5a409.PNG)
 ![1 (6)](https://user-images.githubusercontent.com/108902579/229366809-c4993409-a0dd-4ad7-8ddf-194040b1fead.PNG)
 ![1 (9)](https://user-images.githubusercontent.com/108902579/229366844-5c3ef12a-0daf-40cc-ade2-980e22f59eb4.PNG)
-![1 (7)](https://user-images.githubusercontent.com/108902579/229366821-3eaebdf6-3324-4891-850e-56960465f2f2.PNG)
 ![1 (8)](https://user-images.githubusercontent.com/108902579/229366840-11bfeb6f-8d03-46e0-a002-306690e4fad6.PNG)
-![G2](https://user-images.githubusercontent.com/108902579/233776306-c62c0131-280f-4699-b327-9be7079e1764.GIF)
-![1 (10)](https://user-images.githubusercontent.com/108902579/229366858-887fc57b-29b4-4fbb-82f2-854e2c6bd447.PNG)
+
 
 
 ### HR ANALYSIS 
@@ -123,6 +121,13 @@ Sales and profit by country.
 Salesperson profit contribution and percentage.
 All of which can be slice/drill down by Time and Team
 
+All of which can be slice/drill by Room class, City
+Month and week
+### [SALES DASHBOARD REPORTING : Power BI Project](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Sales%20Dashboard%20with%20Briggs.pbix)
+![Sales Ddb1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/1bc26250-6f18-4a7b-bace-9db62cb5ab40)
+![Sales Dbd2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/75a0747a-2d3b-4975-92b9-898a97f8b5c6)
+![Sales Ddb3](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/9eeb533c-efa5-43c2-b95f-8da9d541dbde)
+
 ### HOTEL ANALYSIS:
 This hospitality (hotel) dashboard shows revenue and 
 operation of the hotel;
@@ -150,14 +155,6 @@ Booking % by Platform -
 Booking % by Room class -
 Revenue WoW change % -
 Occupancy WoW change % -
-
-All of which can be slice/drill by Room class, City
-Month and week
-### [SALES DASHBOARD REPORTING : Power BI Project](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Sales%20Dashboard%20with%20Briggs.pbix)
-![Sales Ddb1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/1bc26250-6f18-4a7b-bace-9db62cb5ab40)
-![Sales Dbd2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/75a0747a-2d3b-4975-92b9-898a97f8b5c6)
-![Sales Ddb3](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/9eeb533c-efa5-43c2-b95f-8da9d541dbde)
-
 
 ### [HOTEL/ HOSPITALITY DASHBOARD REPORTING : Power BI Project](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Hospitality%20report%20with%20Briggs%20O..pbix)
 
