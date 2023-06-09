@@ -34,7 +34,7 @@ INSTITUTE  OF  CHARTERED  ACCOUNTANTS  OF  NIGERIA  (ICAN)
 
 ### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION:
 
-Created a real time Analysis Dashboard with advance Excel, featuring a power bi  gauge chart to measure and track agents engagement and daily loan recovery as call against set target (KPI) for the month. Updating management and agent on agents individual performance and loan recoveries in real time.
+Created a real time Analysis Dashboard using advance Excel, featuring a power bi like gauge chart to measure and track agents engagement and daily loan recovery as call against set target (KPI) for the month. Updating management and agent on agents individual performance and loan recoveries in real time.
 
 Agent individual call disposition, numbers of calls and promise to pay (PTP) from customers every three hours and consolidation of daily, weekly, monthly, quarterly and yearly report analysis using advanced Excel, Power query, ETL, Power pivot with data source from Crm loan disposition sheet dataset and SharePoint.
 
@@ -84,8 +84,8 @@ service year and their home distance status to work.
 
 It captures; Emloyee and job satisfaction level, 
 Overtime and ratings by department.
-[HR ANALYTICS 1](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/2.%20HR%20DATA%20ANALYSIS.xlsx)
-[HR ANALYTICS 2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/HR%20Analytics%20With%20Briggs%20O..pbix)
+### [HR ANALYTICS 1](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/2.%20HR%20DATA%20ANALYSIS.xlsx)
+### [HR ANALYTICS 2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/HR%20Analytics%20With%20Briggs%20O..pbix)
 ![HR 1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/dd722248-3605-4dba-93e6-23dee4e1cc2d)
 ![HR 2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/0ba7c535-6ca7-4caa-823f-efb4ba837949)
 ![HR 3](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/35fd9b3d-fd1e-4b67-916c-24fb358f169f)
@@ -110,7 +110,7 @@ The kpi of the dashboard show the;
 Total customer, total sales, total profit and 
 percentage profit.
 
-also;
+Also;
 Sales by region,
 Total sales by month,
 Sales by geo-location,
@@ -128,7 +128,7 @@ Month and week
 ![Sales Dbd2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/75a0747a-2d3b-4975-92b9-898a97f8b5c6)
 ![Sales Ddb3](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/9eeb533c-efa5-43c2-b95f-8da9d541dbde)
 
-### HOTEL ANALYSIS:
+### HOTEL ANALYSIS REPORT:
 This hospitality (hotel) dashboard shows revenue and 
 operation of the hotel;
 
@@ -156,7 +156,7 @@ Booking % by Room class -
 Revenue WoW change % -
 Occupancy WoW change % -
 
-### [HOTEL/ HOSPITALITY DASHBOARD REPORTING : Power BI Project](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Hospitality%20report%20with%20Briggs%20O..pbix)
+### [HOTEL/ HOSPITALITY DASHBOARD REPORT : Power BI Project](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Hospitality%20report%20with%20Briggs%20O..pbix)
 
 ![H1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/66c1bfe3-748b-47d6-8e9f-8a9ef425e40b)
 ![H2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/e90aeabc-ff01-4c1f-b514-550f6215f8f6)
@@ -234,9 +234,6 @@ individual  recipient  (customer)  receives  his/her  personalized  mail  conten
 using  MS  Excel,  MS  Word  and  MS  outlook.
 ![3](https://user-images.githubusercontent.com/108902579/229366877-f55b5e12-270d-4af6-9fa1-81f674c41661.PNG)
 
-
-
-Others include; 
 ### CONTACT CENTER (CRM/Dialer) SUPPORT/PROBE ANALYTICS:
 CONTACT  CENTER  (CRM/Dialer)  SUPPORT.
 Upload  customer  details  to  Crm/dialer  for  contacting/  reaching  out  for  the  sake  of  loan  recovery
@@ -267,8 +264,6 @@ Power  query  and  Power  pivot.
 Executive  update  on  work  deliverables,  updates,  challenges,  suggestions,  agent  engagement,
 agent  performance  and  Recovery  performance  using  Powerpoint  presentation.
 [Business/Data Analysis Power Point Executive Presentation](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/7.%20PRESENTATION%203-16-2023.pptx)
-
-
 
 ### ACHIEVEMENTS:
 
