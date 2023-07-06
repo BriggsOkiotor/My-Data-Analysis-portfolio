@@ -1,7 +1,8 @@
-# Briggs Okiotor Portfolio
+# Briggs Okiotor Data Analysis Portfolio
 THANKS FOR CHECKING OUT!!! Feel free to reach out to me. I love to be at your service...
 
-***Data Analysis***
+***DISCLAIMER: These data set are doctored/made up sample data for analytical skill showcase.***
+
 
 ## SUMMARY
 As a proactive computer science professional  with years of experience and proven knowledge of data/business intelligence analysis reporting, problem solving, leadership and management. 
@@ -32,7 +33,11 @@ APC  SITUATION  ROOM  2023  PRESIDENTIAL&HoA  ELECTION -
 INSTITUTE  OF  CHARTERED  ACCOUNTANTS  OF  NIGERIA  (ICAN) 
 
 
-### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION:
+### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION WITH POWER BI
+
+![CC A1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/5f93687a-5178-413a-9e55-c628445b312e)
+![CC A2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/39bcee61-34a3-4d9e-9e75-8ab05c6c9ac9)
+
 
 Created a real time Analysis Dashboard using advance Excel, featuring a power bi like gauge chart to measure and track agents engagement and daily loan recovery as call against set target (KPI) for the month. Updating management and agent on agents individual performance and loan recoveries in real time.
 
@@ -49,6 +54,8 @@ strategy  consistent.
 You  shall  all        be    updated
 by  12PM  to  know  our  current  stand
 (those  ahead  and  those  behind)  All  the  best  team.)
+
+### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION WITH ADVANCE MS EXCEL
 
 ![G1](https://user-images.githubusercontent.com/108902579/233776255-f4a99bcd-3eae-411e-b19b-a35d311ce39e.GIF)
 ![G3](https://user-images.githubusercontent.com/108902579/233776318-d8982769-0416-4b2f-b0b1-5f45702675d8.GIF)
