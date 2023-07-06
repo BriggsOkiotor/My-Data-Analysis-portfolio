@@ -137,12 +137,15 @@ Month and week
 ![Sales Dbd2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/75a0747a-2d3b-4975-92b9-898a97f8b5c6)
 ![Sales Ddb3](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/9eeb533c-efa5-43c2-b95f-8da9d541dbde)
 
-### [HOTEL/ HOSPITALITY POWER BI DASHBOARD (End to End)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20to%20End%20Hotel%20Insight%20analysis.pbix)
-### [HOTEL/ HOSPITALITY POWER BI DASHBOARD (End to End)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20-%20End%20Analysis%20tool.sql)
 
-An End to End Hotel analysis from CSV to Excel data set to SQL query to Power BI dashboard report
 
 ### HOTEL ANALYSIS REPORT:
+
+An End to End Hotel analysis from CSV to Excel data set to SQL query to Power BI dashboard report
+## [HOTEL/ HOSPITALITY SQL (End to End1)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20-%20End%20Analysis%20tool.sql)
+## [HOTEL/ HOSPITALITY POWER BI DASHBOARD (End to End2)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20to%20End%20Hotel%20Insight%20analysis.pbix)
+
+
 This hospitality (hotel) dashboard shows revenue and 
 operation of the hotel;
 
@@ -199,6 +202,11 @@ Publish  the  report  to  my  workspace  in  power  bi  service  creating
 dashboard  board  with  relevant  KPI’s
 
 ### SQL SERVER: 
+
+Report showing; Cases of death and vaccination by region, country, state, gender etc
+
+## [COVID 19 Sql REPORT](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/My%20covid19%20query.sql)
+
 * Modeling.
 Create  a  sample  business  model  for a fictional Super  store  from  scratch  to
 finish  using  Excel  and  SqlDBM.
@@ -210,10 +218,8 @@ Forwarded the model to SSMS to explore different query statements, functions and
 Downloaded Adventure works 2012 sample database on my SSMS to explore and stay abreast of many query statements, error messages and possible fixes via research
 For self study/ personal development 
 
-[ XYZ Super  store ](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
+## [ XYZ SUPER STORE Sql REPORT](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
 
-Report showing; Cases of death and vaccination by region, country, state, gender etc
-[COVID 19 REPORT](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/My%20covid19%20query.sql)
 
 ### [MICROSOFT EXCEL: MS Excel Basic and Advance](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/7033e5445a3a96f3966918928c0d2490227b22d7)
 
