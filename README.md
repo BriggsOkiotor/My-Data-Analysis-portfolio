@@ -144,7 +144,7 @@ Month and week
 An End to End Hotel analysis from CSV to Excel data set to SQL query to Power BI dashboard report
 ## [HOTEL/ HOSPITALITY SQL (End to End1)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20-%20End%20Analysis%20tool.sql)
 ## [HOTEL/ HOSPITALITY POWER BI DASHBOARD (End to End2)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20to%20End%20Hotel%20Insight%20analysis.pbix)
-
+![End to End](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/8a820d6f-2506-4b0e-a8c6-429bc577db3e)
 
 This hospitality (hotel) dashboard shows revenue and 
 operation of the hotel;
