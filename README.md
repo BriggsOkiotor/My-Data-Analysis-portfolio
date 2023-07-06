@@ -56,7 +56,8 @@ You  shall  all        be    updated
 by  12PM  to  know  our  current  stand
 (those  ahead  and  those  behind)  All  the  best  team.)
 
-### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION WITH ADVANCE MS EXCEL
+### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION
+### [Contact Center Analysis with Advance MS Excel](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/CC%20Analysis%20with%20Excel%20(screenshots).xlsx)
 
 ![G1](https://user-images.githubusercontent.com/108902579/233776255-f4a99bcd-3eae-411e-b19b-a35d311ce39e.GIF)
 ![G3](https://user-images.githubusercontent.com/108902579/233776318-d8982769-0416-4b2f-b0b1-5f45702675d8.GIF)
@@ -142,8 +143,8 @@ Month and week
 ### HOTEL ANALYSIS REPORT:
 
 An End to End Hotel analysis from CSV to Excel data set to SQL query to Power BI dashboard report
-## [HOTEL/ HOSPITALITY (Sql)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20-%20End%20Analysis%20tool.sql)
-## [HOTEL/ HOSPITALITY DASHBOARD (Power BI)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20to%20End%20Hotel%20Insight%20analysis.pbix)
+### [HOTEL/ HOSPITALITY (Sql)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20-%20End%20Analysis%20tool.sql)
+### [HOTEL/ HOSPITALITY DASHBOARD (Power BI)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20to%20End%20Hotel%20Insight%20analysis.pbix)
 ![End to End](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/8a820d6f-2506-4b0e-a8c6-429bc577db3e)
 
 This hospitality (hotel) dashboard shows revenue and 
