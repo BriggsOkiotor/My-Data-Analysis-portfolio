@@ -93,8 +93,8 @@ service year and their home distance status to work.
 
 It captures; Emloyee and job satisfaction level, 
 Overtime and ratings by department.
-### [HR ANALYTICS 1](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/2.%20HR%20DATA%20ANALYSIS.xlsx)
-### [HR ANALYTICS 2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/HR%20Analytics%20With%20Briggs%20O..pbix)
+### [HR ANALYTICS (Excel)](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/blob/main/2.%20HR%20DATA%20ANALYSIS.xlsx)
+### [HR ANALYTICS (Power BI)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/HR%20Analytics%20With%20Briggs%20O..pbix)
 ![HR 1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/dd722248-3605-4dba-93e6-23dee4e1cc2d)
 ![HR 2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/0ba7c535-6ca7-4caa-823f-efb4ba837949)
 ![HR 3](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/35fd9b3d-fd1e-4b67-916c-24fb358f169f)
@@ -142,8 +142,8 @@ Month and week
 ### HOTEL ANALYSIS REPORT:
 
 An End to End Hotel analysis from CSV to Excel data set to SQL query to Power BI dashboard report
-## [HOTEL/ HOSPITALITY SQL (End to End1)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20-%20End%20Analysis%20tool.sql)
-## [HOTEL/ HOSPITALITY POWER BI DASHBOARD (End to End2)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20to%20End%20Hotel%20Insight%20analysis.pbix)
+## [HOTEL/ HOSPITALITY (Sql)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20-%20End%20Analysis%20tool.sql)
+## [HOTEL/ HOSPITALITY DASHBOARD (Power BI)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/End%20to%20End%20Hotel%20Insight%20analysis.pbix)
 ![End to End](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/8a820d6f-2506-4b0e-a8c6-429bc577db3e)
 
 This hospitality (hotel) dashboard shows revenue and 
