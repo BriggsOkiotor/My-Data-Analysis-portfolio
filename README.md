@@ -34,7 +34,7 @@ INSTITUTE  OF  CHARTERED  ACCOUNTANTS  OF  NIGERIA  (ICAN)
 
 
 ### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION
-### [Contact Center Analysis with POWER BI](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/SGSL%20Contact%20Center%20Analysiss.pbix)
+### [Contact Center Analysis (Power BI)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/SGSL%20Contact%20Center%20Analysiss.pbix)
 
 ![CC A1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/5f93687a-5178-413a-9e55-c628445b312e)
 ![CC A2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/39bcee61-34a3-4d9e-9e75-8ab05c6c9ac9)
@@ -57,25 +57,12 @@ by  12PM  to  know  our  current  stand
 (those  ahead  and  those  behind)  All  the  best  team.)
 
 ### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION
-### [Contact Center Analysis with Advance MS Excel](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/CC%20Analysis%20with%20Excel%20(screenshots).xlsx)
+### [Contact Center Analysis (Advance MS Excel)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/CC%20Analysis%20with%20Excel%20(screenshots).xlsx)
 
 ![G1](https://user-images.githubusercontent.com/108902579/233776255-f4a99bcd-3eae-411e-b19b-a35d311ce39e.GIF)
 ![G3](https://user-images.githubusercontent.com/108902579/233776318-d8982769-0416-4b2f-b0b1-5f45702675d8.GIF)
 ![1 (3)](https://user-images.githubusercontent.com/108902579/229366620-9a96457f-0152-48f7-ae86-ffee6dba843c.PNG)
 ![1 (4)](https://user-images.githubusercontent.com/108902579/229366675-a0d43268-4578-4037-96a7-70b614de8fb2.PNG)
-
-.
-
-.
-
-.
-
-![1 (5)](https://user-images.githubusercontent.com/108902579/229366721-642cb752-d3bd-4793-b03c-9013a0f5a409.PNG)
-![1 (6)](https://user-images.githubusercontent.com/108902579/229366809-c4993409-a0dd-4ad7-8ddf-194040b1fead.PNG)
-![1 (9)](https://user-images.githubusercontent.com/108902579/229366844-5c3ef12a-0daf-40cc-ade2-980e22f59eb4.PNG)
-![1 (8)](https://user-images.githubusercontent.com/108902579/229366840-11bfeb6f-8d03-46e0-a002-306690e4fad6.PNG)
-
-
 
 
 ### HR ANALYSIS 
@@ -133,7 +120,7 @@ All of which can be slice/drill down by Time and Team
 
 All of which can be slice/drill by Room class, City
 Month and week
-### [SALES DASHBOARD REPORTING : Power BI Project](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Sales%20Dashboard%20with%20Briggs.pbix)
+### [SALES DASHBOARD REPORTING (Power BI)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Sales%20Dashboard%20with%20Briggs.pbix)
 ![Sales Ddb1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/1bc26250-6f18-4a7b-bace-9db62cb5ab40)
 ![Sales Dbd2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/75a0747a-2d3b-4975-92b9-898a97f8b5c6)
 ![Sales Ddb3](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/9eeb533c-efa5-43c2-b95f-8da9d541dbde)
@@ -174,7 +161,7 @@ Booking % by Room class -
 Revenue WoW change % -
 Occupancy WoW change % -
 
-### [HOTEL/ HOSPITALITY DASHBOARD](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Hospitality%20report%20with%20Briggs%20O..pbix)
+### [HOTEL/ HOSPITALITY DASHBOARD (Power BI)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/Hospitality%20report%20with%20Briggs%20O..pbix)
 
 ![H1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/66c1bfe3-748b-47d6-8e9f-8a9ef425e40b)
 ![H2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/e90aeabc-ff01-4c1f-b514-550f6215f8f6)
@@ -206,7 +193,7 @@ dashboard  board  with  relevant  KPI’s
 
 Report showing; Cases of death and vaccination by region, country, state, gender etc
 
-## [COVID 19 Sql REPORT](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/My%20covid19%20query.sql)
+## [COVID 19 REPORT (Sql)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/My%20covid19%20query.sql)
 
 * Modeling.
 Create  a  sample  business  model  for a fictional Super  store  from  scratch  to
@@ -219,7 +206,7 @@ Forwarded the model to SSMS to explore different query statements, functions and
 Downloaded Adventure works 2012 sample database on my SSMS to explore and stay abreast of many query statements, error messages and possible fixes via research
 For self study/ personal development 
 
-## [ XYZ SUPER STORE Sql REPORT](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
+## [ XYZ SUPER STORE REPORT (Sql)](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/tree/main/Sql)
 
 
 ### [MICROSOFT EXCEL: MS Excel Basic and Advance](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/7033e5445a3a96f3966918928c0d2490227b22d7)
@@ -241,17 +228,12 @@ If functions, VLookups XLookup etc
 Exploratory data analysis (EDA) / Conditional formatting / Relationship modeling / Power pivot / Power query / ETL
 Functions / X&V Lookups / Chart and Graphs
 
-![adexel1](https://user-images.githubusercontent.com/108902579/183625988-077e711c-e6e3-4c7f-b8d7-b7a6fc4e8185.PNG)
-
 ![adexcel2](https://user-images.githubusercontent.com/108902579/183626046-808f5ebf-3dc8-4a52-bb1e-bd52d802cb62.PNG)
 
 ![adexcel3](https://user-images.githubusercontent.com/108902579/183626078-6a6c561a-5608-406f-b7fa-9edef4a8567c.PNG)
 
 ![adexcel4](https://user-images.githubusercontent.com/108902579/183626125-38c64cab-c53e-4d59-a960-66fe93090efc.PNG)
 
-![adexcel5](https://user-images.githubusercontent.com/108902579/183626183-a59864cf-e3b3-4738-b0c0-0c9ae7c9894f.PNG)
-
-![adexcel6](https://user-images.githubusercontent.com/108902579/183626219-7f348eb8-f658-4eec-a81f-663d9f6e3af7.PNG)
 
 ### EMAIL MARKETING:
 Configured  mail  merge  tool  kit  for  swift  automation  of  bulk  mailing  system.  So  that  every
