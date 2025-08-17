@@ -24,8 +24,8 @@ For a detailed look at my work and a full breakdown of my skills, please request
 
 Developed and maintained a weekly asset reversal dashboard using Power BI and EXCEL, which provided a comprehensive view of asset movements (Site2site or Site2Warehouse). The tool identified trends and anomalies in asset flows, directly supporting the asset management team in mitigating potential risk and optimizing asset reuse program, supporting cost avaiodance.
 
-### REAL TIME DATA ANALYSIS, REPORTING & MOTIVATION
 ### [Contact Center Analysis (Power BI)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/SGSL%20Contact%20Center%20Analysiss.pbix)
+### REAL TIME DATA ANALYSIS, REPORTING & MOTIVATION
 
 ![CC A1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/5f93687a-5178-413a-9e55-c628445b312e)
 ![CC A2](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/39bcee61-34a3-4d9e-9e75-8ab05c6c9ac9)
@@ -47,8 +47,9 @@ You  shall  all        be    updated
 by  12PM  to  know  our  current  stand
 (those  ahead  and  those  behind)  All  the  best  team.)
 
-### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION
+
 ### [Contact Center Analysis (Advance MS Excel)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/CC%20Analysis%20with%20Excel%20(screenshots).xlsx)
+### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION
 
 ![G1](https://user-images.githubusercontent.com/108902579/233776255-f4a99bcd-3eae-411e-b19b-a35d311ce39e.GIF)
 ![G3](https://user-images.githubusercontent.com/108902579/233776318-d8982769-0416-4b2f-b0b1-5f45702675d8.GIF)
