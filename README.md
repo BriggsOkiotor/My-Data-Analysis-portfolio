@@ -18,9 +18,9 @@ For a detailed look at my work and a full breakdown of my skills, please request
 
 ### DATA ANALYSIS, REPORTING (ASSET MANAGEMENT) with POWER BI vs EXCEL
 
-<img width="1185" height="511" alt="Image" src="https://github.com/user-attachments/assets/be49e318-a031-4fc6-a000-9204cc6801e4" />
+![](https://github.com/user-attachments/assets/be49e318-a031-4fc6-a000-9204cc6801e4)
+![](https://github.com/user-attachments/assets/31b7457f-674c-46be-b7b9-6cafd4f7a2ea)
 
-<img width="809" height="599" alt="Image" src="https://github.com/user-attachments/assets/31b7457f-674c-46be-b7b9-6cafd4f7a2ea" />
 
 Developed and maintained a weekly asset reversal dashboard using Power BI and EXCEL, which provided a comprehensive view of asset movements (Site2site or Site2Warehouse). The tool identified trends and anomalies in asset flows, directly supporting the asset management team in mitigating potential risk and optimizing asset reuse program, supporting cost avaiodance.
 
