@@ -16,14 +16,14 @@ I am passionate about translating complex information into easy-to-understand vi
 
 For a detailed look at my work and a full breakdown of my skills, please request my resume or schedule a meeting at okiotorbriggs@gmail.com. 
 
-### DATA ANALYSIS, REPORTING (ASSET MANAGEMENT) with EXCEL and POWER BI 
+### DATA ANALYSIS, REPORTING (ASSET MANAGEMENT) with POWER BI vs EXCEL
 
 <img width="1185" height="511" alt="Image" src="https://github.com/user-attachments/assets/be49e318-a031-4fc6-a000-9204cc6801e4" />
 
 <img width="809" height="599" alt="Image" src="https://github.com/user-attachments/assets/31b7457f-674c-46be-b7b9-6cafd4f7a2ea" />
 
-![AM A1](https://github.com/user-attachments/assets/e06513a8-9915-4f0c-8653-61547f04bc91")
-![AM A2](https://github.com/user-attachments/assets/9a62b3f4-cbf5-465f-b632-b05ea41438aa")
+Developed and maintained a weekly asset reversal dashboard using Power BI and EXCEL, which provided a comprehensive view of asset movements (Site2site or Site2Warehouse). The tool identified trends and anomalies in asset flows, directly supporting the asset management team in mitigating potential risk and optimizing asset reuse program, supporting cost avaiodance.
+
 ### REAL TIME DATA ANALYSIS, REPORTING & MOTIVATION
 ### [Contact Center Analysis (Power BI)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/SGSL%20Contact%20Center%20Analysiss.pbix)
 
