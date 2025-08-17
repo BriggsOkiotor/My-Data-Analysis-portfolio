@@ -18,6 +18,8 @@ For a detailed look at my work and a full breakdown of my skills, please request
 
 ### DATA ANALYSIS, REPORTING (ASSET MANAGEMENT) with EXCEL and POWER BI 
 
+![AM A1](https://github.com/user-attachments/assets/e06513a8-9915-4f0c-8653-61547f04bc91")
+![AM A2](https://github.com/user-attachments/assets/9a62b3f4-cbf5-465f-b632-b05ea41438aa")
 ### REAL TIME DATA ANALYSIS, REPORTING & MOTIVATION
 ### [Contact Center Analysis (Power BI)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/SGSL%20Contact%20Center%20Analysiss.pbix)
 
