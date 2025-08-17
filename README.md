@@ -16,7 +16,7 @@ I am passionate about translating complex information into easy-to-understand vi
 
 For a detailed look at my work and a full breakdown of my skills, please request my resume or schedule a meeting at okiotorbriggs@gmail.com. 
 
-### DATA ANALYSIS, REPORTING & ASSET MANAGEMENT 
+### DATA ANALYSIS, REPORTING (ASSET MANAGEMENT) with EXCEL and POWER BI 
 
 ### REAL TIME DATA ANALYSIS, REPORTING & MOTIVATION
 ### [Contact Center Analysis (Power BI)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/SGSL%20Contact%20Center%20Analysiss.pbix)
