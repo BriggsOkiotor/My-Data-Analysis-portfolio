@@ -5,35 +5,20 @@ THANKS FOR CHECKING OUT!!! Feel free to reach out to me. I love to be at your se
 
 
 ## SUMMARY
-As a proactive computer science professional  with years of experience and proven knowledge of data/business intelligence analysis reporting, problem solving, leadership and management. 
 
-I have helped business owners and stakeholders unlock insight from the pool of data generated in real time, share these insights, to make projections that assist teams to remain focused and motivated towards the set KPIs required to achieve the business goals and objectives.
-A creative and detailed data analyst with proven experience  in data cleaning,transformation ,visualization, reporting and insight generation. 
+As a dedicated data analyst with extensive experience in extracting actionable insights from complex datasets, I help organizations transform raw data into a strategic asset.
 
-I love thinking through complicated datasets and making sense out of it. I can help you build a clear and insightful dashboard report that will enable you to make data driven decisions.
+My expertise covers the full data analysis lifecycle, including data cleaning, transformation, visualization, and reporting. I have a proven track record of collaborating with stakeholders, from sales and marketing teams to CEOs and directors, to deliver insightful dashboards and reports that empower data-driven decisions.
 
-For more details to the Title headings and infographics below kindly request my Resume or schedule a meeting at 
-okiotorbriggs@gmail.com 
-   
-Dashboards are specifically designed to provide valuable insights to the Directors, CEO, sales managers, marketing team, Agents and quality assurance officers, enabling data-driven decisions for optimal performance and revenue 
+My dashboards are designed to provide clear, valuable insights across a range of business functions, including Asset management, contact center performance, sales trends, and HR analytics. I focus on creating visualizations that directly address key business questions, enabling teams to stay focused on their KPIs and achieve their business objectives.
 
-Below are some dashboard visualizations and what each dashboard offers and how they will speak to various analytics. From Contact center data analysis to Sales analysis, Hospitality analysis and HR data analysis
+I am passionate about translating complex information into easy-to-understand visual stories that drive performance and revenue.
 
+For a detailed look at my work and a full breakdown of my skills, please request my resume or schedule a meeting at okiotorbriggs@gmail.com. 
 
-### PRODUCT/PARTNERS:
+### DATA ANALYSIS, REPORTING & ASSET MANAGEMENT 
 
-FAIRMONEY  MICROFINANCE  BANK - 
-QUICK  CHECK (JUMIA  PAY) - 
-BLACK  COPPER  LOAN  AGENCY - 
-TANGERINE  LOAN  AGENCY -
-AELLA  LOAN  AGENCY - 
-BAINS  CREDIT  LOAN  AGENCY - 
-NATIONAL  SOCIAL  INVESTMENT  PROGRAM  (Nsip  /  N-Power) - 
-APC  SITUATION  ROOM  2023  PRESIDENTIAL&HoA  ELECTION - 
-INSTITUTE  OF  CHARTERED  ACCOUNTANTS  OF  NIGERIA  (ICAN) 
-
-
-### REAL TIME DATA ANALYTIC REPORTING & MOTIVATION
+### REAL TIME DATA ANALYSIS, REPORTING & MOTIVATION
 ### [Contact Center Analysis (Power BI)](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/blob/main/SGSL%20Contact%20Center%20Analysiss.pbix)
 
 ![CC A1](https://github.com/BriggsOkiotor/My-Data-Analysis-portfolio/assets/108902579/5f93687a-5178-413a-9e55-c628445b312e)
