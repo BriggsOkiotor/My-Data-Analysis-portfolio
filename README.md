@@ -284,3 +284,17 @@ National Branding Innovators Award  for The most outstanding B2B technology solu
 ###  [Dataset: 2](https://github.com/BriggsOkiotor/My-Data-Analysis-self-practice-portfolio/commit/ed691ded5e18d1751f2127ec4b2c668aa054b9ef)
 
 Once again, thanks for checking out!!! Feel free to reach out to me. I would love to be at your service...
+
+### Feel free to connect
+[YouTube channel ](https://youtube.com/channel/UCOcjfkZBQY7EZY64m7kDUkA)
+
+[Twitter](https://x.com/fomabriggs)
+
+[Instagram](https://www.instagram.com/fomabriggs?igsh=OHFoaWp6b3QyNHY2)
+
+
+♥️ LET LOVE LEAD ♥️
+
+Foma Briggs.
+Originator, Afro925™ Movement
+
